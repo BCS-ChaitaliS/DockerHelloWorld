@@ -4,16 +4,7 @@
 This is sample project for Hello World which contains docker file to test on docker container.
 It uses java 11.
 
-docker pull openjdk - This will pull openjdk image 
 
-docker images : list all your docker images
-
-
-docker ps -a  :  lists all the Docker containers 
-
-docker ps : list only the running containers.
-
-docker build -t my-app-image .  :-build docker image with my-app-image
 
 
 docker image prune -a --force  :-delete all the images from container
