@@ -13,9 +13,5 @@ It uses java 11.
 
 
 **Sample Docker File for maven project.**
-
-FROM adoptopenjdk:11-jre-hotspot
-WORKDIR /app
-COPY target/my-app-1.0-SNAPSHOT.jar app.jar
-CMD ["java", "-jar", "app.jar"]![image](https://github.com/chaitalishah/DockerHelloWorld/assets/13629726/50d35bd9-e3da-4bb0-9d55-fd7c91f22262)
+![image](https://github.com/chaitalishah/DockerHelloWorld/assets/13629726/50d35bd9-e3da-4bb0-9d55-fd7c91f22262)
 
