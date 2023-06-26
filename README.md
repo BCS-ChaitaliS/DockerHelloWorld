@@ -9,7 +9,6 @@ It uses java 11.
 
 
 **Add below pom.xml**
-Add below pom.xml
 ![image](https://github.com/chaitalishah/DockerHelloWorld/assets/13629726/78df2cef-29be-409b-9064-865570fcea9b)
 
 
