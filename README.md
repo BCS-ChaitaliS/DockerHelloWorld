@@ -10,20 +10,7 @@ It uses java 11.
 
 **Add below pom.xml**
 Add below pom.xml
-<plugin>
-<groupId>org.apache.maven.plugins</groupId>
-<artifactId>maven-jar-plugin</artifactId>
-<version>3.2.0</version>
-<configuration>
-<archive>
-<manifest>
-<addClasspath>true</addClasspath>
-<classpathPrefix>lib/</classpathPrefix>
-<mainClass>com.example.App</mainClass>
-</manifest>
-</archive>
-</configuration>
-</plugin>![image](https://github.com/chaitalishah/DockerHelloWorld/assets/13629726/78df2cef-29be-409b-9064-865570fcea9b)
+![image](https://github.com/chaitalishah/DockerHelloWorld/assets/13629726/78df2cef-29be-409b-9064-865570fcea9b)
 
 
 **Sample Docker File for maven project.**
