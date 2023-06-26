@@ -8,8 +8,8 @@ It uses java 11.
 ![image](https://github.com/chaitalishah/DockerHelloWorld/assets/13629726/22b82e57-2d32-4175-9e9e-3a03a6963357)
 
 
-**Add below pom.xml
-**<plugin>
+**Add below pom.xml**
+<plugin>
 <groupId>org.apache.maven.plugins</groupId>
 <artifactId>maven-jar-plugin</artifactId>
 <version>3.2.0</version>
