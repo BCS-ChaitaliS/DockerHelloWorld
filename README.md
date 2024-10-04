@@ -1,4 +1,3 @@
-j3jojl6e-tc4mc8s:AKN8AzmCrXHcgCIJVxKk
 
 # DockerHelloWorld
 
