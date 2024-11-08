@@ -1,4 +1,3 @@
-<img width="785" alt="image" src="https://github.com/user-attachments/assets/57062e4e-219c-43b7-99e9-6b9f010bd8a9">
 
 # DockerHelloWorld
 
