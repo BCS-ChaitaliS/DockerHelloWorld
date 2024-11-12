@@ -1,0 +1,22 @@
+Thanks Irene and everyone for joining this Test Automation Demo session!! Hello everyone! My self Chaitali Shah from Basecamp, and I’m going to present demo on ECM-JIOS Variance Test Automation Tool.
+This Test Automation tool was developed to manage and analyze a high volume of variance analysis requests, making it easy for our team to handle and review large data sets efficiently."
+
+"Today, I’ll show you how this automation tool processes hundreds of requests asynchronously. It organizes the responses in clearly designated folders based on the environment and generates a summary file that gives us a quick snapshot of the outcomes, including successful and failed responses. This setup not only speeds up processing but also helps us keep everything neatly organized for quick access."
+
+
+
+
+
+Benefits of the Test Automation Tool
+Improved Efficiency:
+
+"One of the biggest benefits of this tool is how efficiently it handles requests asynchronously. Unlike tools like Postman or SoapUI, where each request is usually processed individually or in smaller batches, our tool can process hundreds of requests at once. This greatly reduces execution time and makes it possible to handle much larger volumes of data."
+Automated Environment Management:
+
+"The tool also simplifies environment management by directing requests to the appropriate environment—whether dev, staging, or production—automatically. This eliminates the manual task of switching environments, which can be quite tedious in tools like Postman or SoapUI."
+Detailed Summary File:
+
+"Another helpful feature is the summary file. This file gives us a consolidated view of request outcomes, showing the counts of successful (200 status) responses, non-200 responses, and any failed requests due to network or system issues. Traditional tools don’t typically provide this kind of organized summary, which can be very helpful in spotting issues quickly."
+Organized Response Storage:
+
+"Since responses are saved by environment, it’s easy to find specific responses without wading through mixed data, making troubleshooting and analysis much easier."
