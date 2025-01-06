@@ -1,0 +1,1086 @@
+{
+    "header": {
+        "taxPrd": "202312",
+        "mftCd": "30",
+        "correlationId": "57b818c1-7099-4fb1-a972-92ccb671469a",
+        "transactionId": "ea30cc25-1816-45fe-89fa-ddb57a74de4b",
+        "calcDt": "10/22/2024",
+        "reportDt": "10/22/2024",
+        "submitterId": "taxcalc.julioes.com",
+        "primaryTIN": "338004888"
+    },
+    "body": {
+        "forms": [
+            {
+                "formNum": "IRS1040",
+                "sequenceNum": "1",
+                "lineItems": [   
+					{
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040/IndividualReturnFilingStatusCd",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "1",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },                   
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040/VirtualCurAcquiredDurTYInd",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "false",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040/TotalExemptPrimaryAndSpouseCnt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "1",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },              
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040/TotalExemptionsCnt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "1",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },				
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040/WagesAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "66750",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040/HouseholdEmployeeWagesAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040/WagesSalariesAndTipsAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "66750",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },                                         
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040/TaxExemptInterestAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040/TaxInterestAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040/QualifiedDividendsAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040/OrdinaryDividendsAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040/IRADistributionsAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040/TaxableIRAAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040/PensionsAnnuitiesAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040/TotalTaxablePensionsAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                 {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040/SocSecBnftAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040/TaxableSocSecAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040/CapitalGainLossAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },                     
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040/TotalAdditionalIncomeAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "15566",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040/TotalIncomeAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "82316",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040/TotalAdjustmentsAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "1100",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                     {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040/AdjustedGrossIncomeAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "81216",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },             
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040/TotalItemizedOrStandardDedAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "13850",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040/QualifiedBusinessIncomeDedAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "0",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040/TotalDeductionsAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "13850",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040/TaxableIncomeAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "67366",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040/TaxAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "10130",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040/AdditionalTaxAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040/TotalTaxBeforeCrAndOthTaxesAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "10130",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },    
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040/CTCODCAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040/TotalNonrefundableCreditsAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040/TotalCreditsAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040/TaxLessCreditsAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "10130",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040/TotalOtherTaxesAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "2200",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040/TotalTaxAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "12330",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040/FormW2WithheldTaxAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "8500",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    }, 
+					{
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040/WithholdingTaxAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "8500",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040/EstimatedTaxPaymentsAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040/EarnedIncomeCreditAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040/AdditionalChildTaxCreditAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040/RefundableCreditsAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040/TotalPaymentsAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "8500",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040/OverpaidAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040/RefundAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040/OwedAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "3830",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    }             
+                ]
+            },
+            {
+                "formNum": "IRS1040ScheduleC",
+                "sequenceNum": "1",
+                "lineItems": [
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040ScheduleC/ProprietorNm",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "Zack Rice",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040ScheduleC/PrincipalBusinessActivityDesc",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "Electric Service",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040ScheduleC/PrincipalBusinessActivityCd",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "238210",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040ScheduleC/BusinessNameLine1Txt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "JR Electric LLC",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+					{
+						"lineItemReferenceKeyId": "",
+						"lineNameTxt": "/IRS1040ScheduleC/EIN",
+						"sequenceNum": "1",
+						"perReturnValueTxt": "90-4949495",
+						"taxCalculatorValueTxt": "",
+						"varianceValueTxt": ""
+                     },
+					 {
+						"lineItemReferenceKeyId": "",
+						"lineNameTxt": "/IRS1040ScheduleC/SSN",
+						"sequenceNum": "1",
+						"perReturnValueTxt": "338004888",
+						"taxCalculatorValueTxt": "",
+						"varianceValueTxt": ""
+                     },                    
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040ScheduleC/AllInvestmentIsAtRiskInd",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040ScheduleC/BusinessUSAddress",
+                        "sequenceNum": "1",
+                        "lineItems": [
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS1040ScheduleC/BusinessUSAddress/AddressLine1Txt",
+                                "sequenceNum": "1",
+                                "perReturnValueTxt": "123 Anywhere",
+                                "taxCalculatorValueTxt": "",
+                                "varianceValueTxt": ""
+                            },
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS1040ScheduleC/BusinessUSAddress/CityNm",
+                                "sequenceNum": "1",
+                                "perReturnValueTxt": "Paramus",
+                                "taxCalculatorValueTxt": "",
+                                "varianceValueTxt": ""
+                            },
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS1040ScheduleC/BusinessUSAddress/StateAbbreviationCd",
+                                "sequenceNum": "1",
+                                "perReturnValueTxt": "NJ",
+                                "taxCalculatorValueTxt": "",
+                                "varianceValueTxt": ""
+                            },
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS1040ScheduleC/BusinessUSAddress/ZIPCd",
+                                "sequenceNum": "1",
+                                "perReturnValueTxt": "07410",
+                                "taxCalculatorValueTxt": "",
+                                "varianceValueTxt": ""
+                            }
+                        ]
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040ScheduleC/MethodOfAccountingCashInd",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "X",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040ScheduleC/MaterialParticipationInCYInd",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "true",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+					{
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040ScheduleC/NewBusinessInCurrentYearInd",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "true",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040ScheduleC/PaymentRqrFilingForm1099Ind",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "false",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040ScheduleC/TotalGrossReceiptsAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "46000",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040ScheduleC/ReturnsAndAllowancesAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040ScheduleC/NetGrossReceiptsAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "46000",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040ScheduleC/GrossProfitAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "46000",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040ScheduleC/GrossIncomeAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "46000",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040ScheduleC/CarAndTruckExpensesAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "21824",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040ScheduleC/SuppliesAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "5710",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040ScheduleC/TaxesAndLicensesAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "425",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040ScheduleC/MealsAndEntertainmentAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "0",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040ScheduleC/UtilitiesAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "2475",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040ScheduleC/TotalExpensesAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "30434",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040ScheduleC/TentativeProfitOrLossAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "15566",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040ScheduleC/NetProfitOrLossAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "15566",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040ScheduleC/AllInvestmentIsAtRiskInd",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    }
+                ]
+            },
+            {
+                "formNum": "IRS1040ScheduleSE",
+                "sequenceNum": "1",
+                "lineItems": [
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040ScheduleSE/PersonNm",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "Zack Rice",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040ScheduleSE/SSN",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "338004888",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040ScheduleSE/NetNonFarmProfitLossAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "15566",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040ScheduleSE/SETotalNetEarningsOrLossAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "15566",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040ScheduleSE/MinimumProfitForSETaxAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "14375",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040ScheduleSE/CombinedSEAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "14375",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040ScheduleSE/CombinedSEAndChurchWagesAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "14375",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040ScheduleSE/SSTWagesRRTCompAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "70750",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040ScheduleSE/TotalWagesAndUnreportedTipsAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "70750",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040ScheduleSE/AllowableSEAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "89450",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040ScheduleSE/TaxBaseAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "1783",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040ScheduleSE/SEBaseAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "417",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040ScheduleSE/SelfEmploymentTaxAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "2200",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040ScheduleSE/DeductibleSelfEmploymentTaxAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "1100",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    }
+                ]
+            },
+            {
+                "formNum": "IRS1040Schedule2",
+                "sequenceNum": "1",
+                "lineItems": [
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040Schedule2/SelfEmploymentTaxAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "2200",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040Schedule2/TotalOtherTaxesAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "2200",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    }
+                ]
+            },           
+            {
+                "formNum": "IRS8995",
+                "sequenceNum": "1",
+                "lineItems": [
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS8995/QualifiedBusinessIncomeDedGrp",
+                        "sequenceNum": "1",
+                        "lineItems": [
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS8995/QualifiedBusinessIncomeDedGrp/TradeOrBusinessName",
+                                "sequenceNum": "1",
+                                "lineItems": [
+                                    {
+                                        "lineItemReferenceKeyId": "",
+                                        "lineNameTxt": "/IRS8995/QualifiedBusinessIncomeDedGrp/TradeOrBusinessName/BusinessNameLine1Txt",
+                                        "sequenceNum": "1",
+                                        "perReturnValueTxt": "JR Electric LLC",
+                                        "taxCalculatorValueTxt": "",
+                                        "varianceValueTxt": ""
+                                    }
+                                ]
+                            },
+                           {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS8995/QualifiedBusinessIncomeDedGrp/SSN",
+                                "sequenceNum": "1",
+                                "perReturnValueTxt": "338004888",
+                                "taxCalculatorValueTxt": "",
+                                "varianceValueTxt": ""
+                            },
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS8995/QualifiedBusinessIncomeDedGrp/EIN",
+                                "sequenceNum": "1",
+                                "perReturnValueTxt": "904949494",
+                                "taxCalculatorValueTxt": "",
+                                "varianceValueTxt": ""
+                            },
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS8995/QualifiedBusinessIncomeDedGrp/QlfyBusinessIncomeOrLossAmt",
+                                "sequenceNum": "1",
+                                "perReturnValueTxt": "13908",
+                                "taxCalculatorValueTxt": "",
+                                "varianceValueTxt": ""
+                            }
+                        ]
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS8995/TotQlfyBusinessIncomeOrLossAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "13908",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS8995/TotQualifiedBusinessIncomeAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "13908",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS8995/QBIComponentAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "2782",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS8995/QBIDedBfrIncomeLimitationAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "2782",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS8995/TaxableIncomeBeforeQBIDedAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "66808",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS8995/AdjustedTaxableIncomeAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "66808",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS8995/IncomeLimitationAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "13362",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS8995/QualifiedBusinessIncomeDedAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "2782",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    }
+                ]
+            },
+            {
+                "formNum": "IRSW2",
+                "sequenceNum": "1",
+                "lineItems": [
+                    {
+                        "lineItemReferenceKeyId": "",
+                		"lineNameTxt": "/IRSW2/EmployeeSSN",
+                		"sequenceNum": "1",
+                		"perReturnValueTxt": "338004888",
+                		"taxCalculatorValueTxt": "",
+                		"varianceValueTxt": ""
+                	},
+                	{
+                		"lineItemReferenceKeyId": "",
+                		"lineNameTxt": "/IRSW2/EmployerEIN",
+                		"sequenceNum": "1",
+                		"perReturnValueTxt": "422266226",
+                		"taxCalculatorValueTxt": "",
+                		"varianceValueTxt": ""
+                	},
+                	{
+                		"lineItemReferenceKeyId": "",
+                		"lineNameTxt": "/IRSW2/EmployerNameControlTxt",
+                		"sequenceNum": "1",
+                		"perReturnValueTxt": "Metro Electric",
+                		"taxCalculatorValueTxt": "",
+                		"varianceValueTxt": ""
+                	},
+                	{
+                		"lineItemReferenceKeyId": "",
+                		"lineNameTxt": "/IRSW2/EmployerName",
+                		"sequenceNum": "1",
+                		"lineItems": [
+                                {
+                                	"lineItemReferenceKeyId": "",
+                                	"lineNameTxt": "/IRSW2/EmployerName/BusinessNameLine1Txt",
+                                	"sequenceNum": "1",
+                                	"perReturnValueTxt": "Gear-up Fitness Gym",
+                                	"taxCalculatorValueTxt": "",
+                                	"varianceValueTxt": ""
+                                }
+                		]
+                	},
+                	{
+                		"lineItemReferenceKeyId": "",
+                		"lineNameTxt": "/IRSW2/EmployerUSAddress",
+                		"sequenceNum": "1",
+                		"lineItems": [
+                                {
+                                	"lineItemReferenceKeyId": "",
+                                	"lineNameTxt": "/IRSW2/EmployerUSAddress/AddressLine1Txt",
+                                	"sequenceNum": "1",
+                                	"perReturnValueTxt": "44 Brook St",
+                                	"taxCalculatorValueTxt": "",
+                                	"varianceValueTxt": ""
+                                },
+                                {
+                                	"lineItemReferenceKeyId": "",
+                                	"lineNameTxt": "/IRSW2/EmployerUSAddress/AddressLine2Txt",
+                                	"sequenceNum": "1",
+                                	"perReturnValueTxt": "",
+                                	"taxCalculatorValueTxt": "",
+                                	"varianceValueTxt": ""
+                                },
+                                {
+                                	"lineItemReferenceKeyId": "",
+                                	"lineNameTxt": "/IRSW2/EmployerUSAddress/CityNm",
+                                	"sequenceNum": "1",
+                                	"perReturnValueTxt": "Atlanta",
+                                	"taxCalculatorValueTxt": "",
+                                	"varianceValueTxt": ""
+                                },
+                                {
+                                	"lineItemReferenceKeyId": "",
+                                	"lineNameTxt": "/IRSW2/EmployerUSAddress/StateAbbreviationCd",
+                                	"sequenceNum": "1",
+                                	"perReturnValueTxt": "GA",
+                                	"taxCalculatorValueTxt": "",
+                                	"varianceValueTxt": ""
+                                },
+                                {
+                                	"lineItemReferenceKeyId": "",
+                                	"lineNameTxt": "/IRSW2/EmployerUSAddress/ZIPCd",
+                                	"sequenceNum": "1",
+                                	"perReturnValueTxt": "30342",
+                                	"taxCalculatorValueTxt": "",
+                                	"varianceValueTxt": ""
+                                }
+                		]
+                	},
+                	{
+                		"lineItemReferenceKeyId": "",
+                		"lineNameTxt": "/IRSW2/EmployeeNm",
+                		"sequenceNum": "1",
+                		"perReturnValueTxt": "Zack Rice",
+                		"taxCalculatorValueTxt": "",
+                		"varianceValueTxt": ""
+                	},
+                	{
+                		"lineItemReferenceKeyId": "",
+                		"lineNameTxt": "/IRSW2/EmployeeUSAddress",
+                		"sequenceNum": "1",
+                		"lineItems": [
+                                {
+                                	"lineItemReferenceKeyId": "",
+                                	"lineNameTxt": "/IRSW2/EmployeeUSAddress/AddressLine1Txt",
+                                	"sequenceNum": "1",
+                                	"perReturnValueTxt": "55 Main Street",
+                                	"taxCalculatorValueTxt": "",
+                                	"varianceValueTxt": ""
+                                },
+                                {
+                                	"lineItemReferenceKeyId": "",
+                                	"lineNameTxt": "/IRSW2/EmployeeUSAddress/AddressLine2Txt",
+                                	"sequenceNum": "1",
+                                	"perReturnValueTxt": "",
+                                	"taxCalculatorValueTxt": "",
+                                	"varianceValueTxt": ""
+                                },
+                                {
+                                	"lineItemReferenceKeyId": "",
+                                	"lineNameTxt": "/IRSW2/EmployeeUSAddress/CityNm",
+                                	"sequenceNum": "1",
+                                	"perReturnValueTxt": "Atlanta",
+                                	"taxCalculatorValueTxt": "",
+                                	"varianceValueTxt": ""
+                                },
+                                {
+                                	"lineItemReferenceKeyId": "",
+                                	"lineNameTxt": "/IRSW2/EmployeeUSAddress/StateAbbreviationCd",
+                                	"sequenceNum": "1",
+                                	"perReturnValueTxt": "GA",
+                                	"taxCalculatorValueTxt": "",
+                                	"varianceValueTxt": ""
+                                },
+                                {
+                                	"lineItemReferenceKeyId": "",
+                                	"lineNameTxt": "/IRSW2/EmployeeUSAddress/ZIPCd",
+                                	"sequenceNum": "1",
+                                	"perReturnValueTxt": "30305",
+                                	"taxCalculatorValueTxt": "",
+                                	"varianceValueTxt": ""
+                                }
+                		]
+                	},
+                	{
+                		"lineItemReferenceKeyId": "",
+                		"lineNameTxt": "/IRSW2/WagesAmt",
+                		"sequenceNum": "1",
+                		"perReturnValueTxt": "66750",
+                		"taxCalculatorValueTxt": "",
+                		"varianceValueTxt": ""
+                	},
+                	{
+                		"lineItemReferenceKeyId": "",
+                		"lineNameTxt": "/IRSW2/WithholdingAmt",
+                		"sequenceNum": "1",
+                		"perReturnValueTxt": "8500",
+                		"taxCalculatorValueTxt": "",
+                		"varianceValueTxt": ""
+                	},
+                	{
+                		"lineItemReferenceKeyId": "",
+                		"lineNameTxt": "/IRSW2/SocialSecurityWagesAmt",
+                		"sequenceNum": "1",
+                		"perReturnValueTxt": "70750",
+                		"taxCalculatorValueTxt": "",
+                		"varianceValueTxt": ""
+                	},
+                	{
+                		"lineItemReferenceKeyId": "",
+                		"lineNameTxt": "/IRSW2/SocialSecurityTaxAmt",
+                		"sequenceNum": "1",
+                		"perReturnValueTxt": "4387",
+                		"taxCalculatorValueTxt": "",
+                		"varianceValueTxt": ""
+                	},
+                	{
+                		"lineItemReferenceKeyId": "",
+                		"lineNameTxt": "/IRSW2/MedicareWagesAndTipsAmt",
+                		"sequenceNum": "1",
+                		"perReturnValueTxt": "70850",
+                		"taxCalculatorValueTxt": "",
+                		"varianceValueTxt": ""
+                	},
+                	{
+                		"lineItemReferenceKeyId": "",
+                		"lineNameTxt": "/IRSW2/MedicareTaxWithheldAmt",
+                		"sequenceNum": "1",
+                		"perReturnValueTxt": "1027",
+                		"taxCalculatorValueTxt": "",
+                		"varianceValueTxt": ""
+                	},
+                	{
+                		"lineItemReferenceKeyId": "",
+                		"lineNameTxt": "/IRSW2/StandardOrNonStandardCd",
+                		"sequenceNum": "1",
+                		"perReturnValueTxt": "S",
+                		"taxCalculatorValueTxt": "",
+                		"varianceValueTxt": ""
+                	}
+                ]
+		}
+        ]
+    }
+}
