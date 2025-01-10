@@ -1,0 +1,668 @@
+{
+   "header":    {
+      "taxPrd": "202312",
+      "mftCd": "30",
+      "correlationId": "8eb0f90b-e512-4299-9cc5-ffda15e819e7",
+      "transactionId": "b4fef7f0-8a28-43a8-b147-b86731cf4adf",
+      "calcDt": "11/17/2024",
+      "reportDt": "11/17/2024",
+      "submitterId": "taxcalc.julioes.com",
+      "primaryTIN": "111111111",
+      "locatorId": "71R0UH"
+   },
+   "body": {"forms":    [
+            {
+         "formNum": "IRS1040",
+         "sequenceNum": "1",
+         "lineItems":          [
+                        {
+               "lineItemReferenceKeyId": "",
+               "lineNameTxt": "/IRS1040/IndividualReturnFilingStatusCd",
+               "sequenceNum": "1",
+               "perReturnValueTxt": "1",
+               "taxCalculatorValueTxt": "",
+               "varianceValueTxt": ""
+            },
+                        {
+               "lineItemReferenceKeyId": "",
+               "lineNameTxt": "/IRS1040/VirtualCurAcquiredDurTYInd",
+               "sequenceNum": "1",
+               "perReturnValueTxt": "false",
+               "taxCalculatorValueTxt": "",
+               "varianceValueTxt": ""
+            },
+                        {
+               "lineItemReferenceKeyId": "",
+               "lineNameTxt": "/IRS1040/TotalExemptPrimaryAndSpouseCnt",
+               "sequenceNum": "1",
+               "perReturnValueTxt": "1",
+               "taxCalculatorValueTxt": "",
+               "varianceValueTxt": ""
+            },
+                        {
+               "lineItemReferenceKeyId": "",
+               "lineNameTxt": "/IRS1040/TotalExemptionsCnt",
+               "sequenceNum": "1",
+               "perReturnValueTxt": "1",
+               "taxCalculatorValueTxt": "",
+               "varianceValueTxt": ""
+            },
+                        {
+               "lineItemReferenceKeyId": "",
+               "lineNameTxt": "/IRS1040/TotalIncomeAmt",
+               "sequenceNum": "1",
+               "perReturnValueTxt": "0",
+               "taxCalculatorValueTxt": "",
+               "varianceValueTxt": ""
+            },
+                        {
+               "lineItemReferenceKeyId": "",
+               "lineNameTxt": "/IRS1040/TotalAdjustmentsAmt",
+               "sequenceNum": "1",
+               "perReturnValueTxt": "12607",
+               "taxCalculatorValueTxt": "12607",
+               "varianceValueTxt": "0"
+            },
+                        {
+               "lineItemReferenceKeyId": "",
+               "lineNameTxt": "/IRS1040/AdjustedGrossIncomeAmt",
+               "sequenceNum": "1",
+               "perReturnValueTxt": "-12607",
+               "taxCalculatorValueTxt": "-12607",
+               "varianceValueTxt": "0"
+            },
+                        {
+               "lineItemReferenceKeyId": "",
+               "lineNameTxt": "/IRS1040/TotalItemizedOrStandardDedAmt",
+               "sequenceNum": "1",
+               "perReturnValueTxt": "13850",
+               "taxCalculatorValueTxt": "13850",
+               "varianceValueTxt": "0"
+            },
+                        {
+               "lineItemReferenceKeyId": "",
+               "lineNameTxt": "/IRS1040/TotalDeductionsAmt",
+               "sequenceNum": "1",
+               "perReturnValueTxt": "13850",
+               "taxCalculatorValueTxt": "13850",
+               "varianceValueTxt": "0"
+            },
+                        {
+               "lineItemReferenceKeyId": "",
+               "lineNameTxt": "/IRS1040/TaxAmt",
+               "sequenceNum": "1",
+               "perReturnValueTxt": "0",
+               "taxCalculatorValueTxt": "0",
+               "varianceValueTxt": "0"
+            },
+                        {
+               "lineItemReferenceKeyId": "",
+               "lineNameTxt": "/IRS1040/TotalTaxBeforeCrAndOthTaxesAmt",
+               "sequenceNum": "1",
+               "perReturnValueTxt": "0",
+               "taxCalculatorValueTxt": "0",
+               "varianceValueTxt": "0"
+            },
+                        {
+               "lineItemReferenceKeyId": "",
+               "lineNameTxt": "/IRS1040/TaxLessCreditsAmt",
+               "sequenceNum": "1",
+               "perReturnValueTxt": "0",
+               "taxCalculatorValueTxt": "0",
+               "varianceValueTxt": "0"
+            },
+                        {
+               "lineItemReferenceKeyId": "",
+               "lineNameTxt": "/IRS1040/TotalTaxAmt",
+               "sequenceNum": "1",
+               "perReturnValueTxt": "0",
+               "taxCalculatorValueTxt": "0",
+               "varianceValueTxt": "0"
+            },
+                        {
+               "lineItemReferenceKeyId": "",
+               "lineNameTxt": "/IRS1040/WithholdingTaxAmt",
+               "sequenceNum": "1",
+               "perReturnValueTxt": "0",
+               "taxCalculatorValueTxt": "",
+               "varianceValueTxt": ""
+            },
+                        {
+               "lineItemReferenceKeyId": "",
+               "lineNameTxt": "/IRS1040/TotalPaymentsAmt",
+               "sequenceNum": "1",
+               "perReturnValueTxt": "0",
+               "taxCalculatorValueTxt": "",
+               "varianceValueTxt": ""
+            },
+                        {
+               "lineItemReferenceKeyId": "",
+               "lineNameTxt": "/IRS1040/OverpaidAmt",
+               "sequenceNum": "1",
+               "perReturnValueTxt": "0",
+               "taxCalculatorValueTxt": "",
+               "varianceValueTxt": ""
+            },
+                        {
+               "lineItemReferenceKeyId": "",
+               "lineNameTxt": "/IRS1040/RefundAmt",
+               "sequenceNum": "1",
+               "perReturnValueTxt": "0",
+               "taxCalculatorValueTxt": "",
+               "varianceValueTxt": ""
+            },
+                        {
+               "lineItemReferenceKeyId": "",
+               "lineNameTxt": "/IRS1040/ThirdPartyDesigneeInd",
+               "sequenceNum": "1",
+               "perReturnValueTxt": "false",
+               "taxCalculatorValueTxt": "",
+               "varianceValueTxt": ""
+            },
+                        {
+               "lineItemReferenceKeyId": "",
+               "lineNameTxt": "/IRS1040/RefundProductCd",
+               "sequenceNum": "1",
+               "perReturnValueTxt": "NO FINANCIAL PRODUCT",
+               "taxCalculatorValueTxt": "",
+               "varianceValueTxt": ""
+            },
+                        {
+               "lineItemReferenceKeyId": "",
+               "lineNameTxt": "/IRS1040/OwedAmt",
+               "sequenceNum": "1",
+               "perReturnValueTxt": "",
+               "taxCalculatorValueTxt": "0",
+               "varianceValueTxt": ""
+            }
+         ]
+      },
+            {
+         "formNum": "IRS1040Schedule1",
+         "sequenceNum": "1",
+         "lineItems":          [
+                        {
+               "lineItemReferenceKeyId": "",
+               "lineNameTxt": "/IRS1040Schedule1/EducatorExpensesAmt",
+               "sequenceNum": "1",
+               "perReturnValueTxt": "250",
+               "taxCalculatorValueTxt": "250",
+               "varianceValueTxt": "0"
+            },
+                        {
+               "lineItemReferenceKeyId": "",
+               "lineNameTxt": "/IRS1040Schedule1/SelfEmpldSepSimpleQlfyPlansAmt",
+               "sequenceNum": "1",
+               "perReturnValueTxt": "678",
+               "taxCalculatorValueTxt": "678",
+               "varianceValueTxt": "0"
+            },
+                        {
+               "lineItemReferenceKeyId": "",
+               "lineNameTxt": "/IRS1040Schedule1/PnltyOnErlyWthdrwOfSavingsAmt",
+               "sequenceNum": "1",
+               "perReturnValueTxt": "1000",
+               "taxCalculatorValueTxt": "1000",
+               "varianceValueTxt": "0"
+            },
+                        {
+               "lineItemReferenceKeyId": "",
+               "lineNameTxt": "/IRS1040Schedule1/AlimonyAmountGrp",
+               "sequenceNum": "1",
+               "lineItems":                [
+                                    {
+                     "lineItemReferenceKeyId": "",
+                     "lineNameTxt": "/IRS1040Schedule1/AlimonyAmountGrp/AlimonyPaidAmt",
+                     "sequenceNum": "1",
+                     "perReturnValueTxt": "5000",
+                     "taxCalculatorValueTxt": "5000",
+                     "varianceValueTxt": "0"
+                  },
+                                    {
+                     "lineItemReferenceKeyId": "",
+                     "lineNameTxt": "/IRS1040Schedule1/AlimonyAmountGrp/RecipientSSN",
+                     "sequenceNum": "1",
+                     "perReturnValueTxt": "123456789",
+                     "taxCalculatorValueTxt": "",
+                     "varianceValueTxt": ""
+                  },
+                                    {
+                     "lineItemReferenceKeyId": "",
+                     "lineNameTxt": "/IRS1040Schedule1/AlimonyAmountGrp/DivorceOrSeparationAgreementDt",
+                     "sequenceNum": "1",
+                     "perReturnValueTxt": "2017-12",
+                     "taxCalculatorValueTxt": "",
+                     "varianceValueTxt": ""
+                  }
+               ]
+            },
+                        {
+               "lineItemReferenceKeyId": "",
+               "lineNameTxt": "/IRS1040Schedule1/TotalAlimonyPaidAmt",
+               "sequenceNum": "1",
+               "perReturnValueTxt": "5000",
+               "taxCalculatorValueTxt": "5000",
+               "varianceValueTxt": "0"
+            },
+                        {
+               "lineItemReferenceKeyId": "",
+               "lineNameTxt": "/IRS1040Schedule1/StudentLoanInterestDedAmt",
+               "sequenceNum": "1",
+               "perReturnValueTxt": "222",
+               "taxCalculatorValueTxt": "222",
+               "varianceValueTxt": "0"
+            },
+                        {
+               "lineItemReferenceKeyId": "",
+               "lineNameTxt": "/IRS1040Schedule1/JuryDutyPayDeductionAmt",
+               "sequenceNum": "1",
+               "perReturnValueTxt": "500",
+               "taxCalculatorValueTxt": "500",
+               "varianceValueTxt": "0"
+            },
+                        {
+               "lineItemReferenceKeyId": "",
+               "lineNameTxt": "/IRS1040Schedule1/RntlIncmPrsnlPropExpnssDedAmt",
+               "sequenceNum": "1",
+               "perReturnValueTxt": "999",
+               "taxCalculatorValueTxt": "999",
+               "varianceValueTxt": "0"
+            },
+                        {
+               "lineItemReferenceKeyId": "",
+               "lineNameTxt": "/IRS1040Schedule1/OlympcPrlympcMedalUSOCDedAmt",
+               "sequenceNum": "1",
+               "perReturnValueTxt": "336",
+               "taxCalculatorValueTxt": "336",
+               "varianceValueTxt": "0"
+            },
+                        {
+               "lineItemReferenceKeyId": "",
+               "lineNameTxt": "/IRS1040Schedule1/RforAmortzExpnssDedAmt",
+               "sequenceNum": "1",
+               "perReturnValueTxt": "789",
+               "taxCalculatorValueTxt": "789",
+               "varianceValueTxt": "0"
+            },
+                        {
+               "lineItemReferenceKeyId": "",
+               "lineNameTxt": "/IRS1040Schedule1/Section403bContriDedAmt",
+               "sequenceNum": "1",
+               "perReturnValueTxt": "855",
+               "taxCalculatorValueTxt": "855",
+               "varianceValueTxt": "0"
+            },
+                        {
+               "lineItemReferenceKeyId": "",
+               "lineNameTxt": "/IRS1040Schedule1/AttyFeesCrtCostsDedAmt",
+               "sequenceNum": "1",
+               "perReturnValueTxt": "700",
+               "taxCalculatorValueTxt": "700",
+               "varianceValueTxt": "0"
+            },
+                        {
+               "lineItemReferenceKeyId": "",
+               "lineNameTxt": "/IRS1040Schedule1/AttyFeesCrtCostsPdDedAmt",
+               "sequenceNum": "1",
+               "perReturnValueTxt": "600",
+               "taxCalculatorValueTxt": "600",
+               "varianceValueTxt": "0"
+            },
+                        {
+               "lineItemReferenceKeyId": "",
+               "lineNameTxt": "/IRS1040Schedule1/OtherAdjustmentsTotalAmt",
+               "sequenceNum": "1",
+               "perReturnValueTxt": "678",
+               "taxCalculatorValueTxt": "678",
+               "varianceValueTxt": "0"
+            },
+                        {
+               "lineItemReferenceKeyId": "",
+               "lineNameTxt": "/IRS1040Schedule1/TotalOtherAdjustmentsAmt",
+               "sequenceNum": "1",
+               "perReturnValueTxt": "5457",
+               "taxCalculatorValueTxt": "5457",
+               "varianceValueTxt": "0"
+            },
+                        {
+               "lineItemReferenceKeyId": "",
+               "lineNameTxt": "/IRS1040Schedule1/TotalAdjustmentsAmt",
+               "sequenceNum": "1",
+               "perReturnValueTxt": "12607",
+               "taxCalculatorValueTxt": "12607",
+               "varianceValueTxt": "0"
+            }
+         ]
+      },
+            {
+         "formNum": "OtherAdjustmentsStatement",
+         "sequenceNum": "1",
+         "lineItems": [         {
+            "lineItemReferenceKeyId": "",
+            "lineNameTxt": "/OtherAdjustmentsStatement/OtherAdjustmentsStmt",
+            "sequenceNum": "1",
+            "lineItems":             [
+                              {
+                  "lineItemReferenceKeyId": "",
+                  "lineNameTxt": "/OtherAdjustmentsStatement/OtherAdjustmentsStmt/OtherAdjustmentsCodeTxt",
+                  "sequenceNum": "1",
+                  "perReturnValueTxt": "Testing",
+                  "taxCalculatorValueTxt": "",
+                  "varianceValueTxt": ""
+               },
+                              {
+                  "lineItemReferenceKeyId": "",
+                  "lineNameTxt": "/OtherAdjustmentsStatement/OtherAdjustmentsStmt/OtherAdjustmentsAmt",
+                  "sequenceNum": "1",
+                  "perReturnValueTxt": "678",
+                  "taxCalculatorValueTxt": "",
+                  "varianceValueTxt": ""
+               }
+            ]
+         }]
+      },
+            {
+         "formNum": "IRS8960",
+         "sequenceNum": "1",
+         "lineItems":          [
+                        {
+               "lineItemReferenceKeyId": "",
+               "lineNameTxt": "/IRS8960/ModifiedAGIAmt",
+               "sequenceNum": "1",
+               "perReturnValueTxt": "",
+               "taxCalculatorValueTxt": "0",
+               "varianceValueTxt": ""
+            },
+                        {
+               "lineItemReferenceKeyId": "",
+               "lineNameTxt": "/IRS8960/FilingThresholdAmt",
+               "sequenceNum": "1",
+               "perReturnValueTxt": "",
+               "taxCalculatorValueTxt": "200000",
+               "varianceValueTxt": ""
+            },
+                        {
+               "lineItemReferenceKeyId": "",
+               "lineNameTxt": "/IRS8960/MAGILessThresholdAmt",
+               "sequenceNum": "1",
+               "perReturnValueTxt": "",
+               "taxCalculatorValueTxt": "0",
+               "varianceValueTxt": ""
+            }
+         ]
+      },
+            {
+         "formNum": "IRS1040Schedule8812",
+         "sequenceNum": "1",
+         "lineItems":          [
+                        {
+               "lineItemReferenceKeyId": "",
+               "lineNameTxt": "/IRS1040Schedule8812/AdjustedGrossIncomeAmt",
+               "sequenceNum": "1",
+               "perReturnValueTxt": "",
+               "taxCalculatorValueTxt": "-12607",
+               "varianceValueTxt": ""
+            },
+                        {
+               "lineItemReferenceKeyId": "",
+               "lineNameTxt": "/IRS1040Schedule8812/ModifiedAGIAmt",
+               "sequenceNum": "1",
+               "perReturnValueTxt": "",
+               "taxCalculatorValueTxt": "-12607",
+               "varianceValueTxt": ""
+            }
+         ]
+      },
+            {
+         "formNum": "IRS5695",
+         "sequenceNum": "1",
+         "lineItems": [         {
+            "lineItemReferenceKeyId": "/IRS5695/EgyEffcntHmImprvCrGrp",
+            "lineNameTxt": "/IRS5695/EgyEffcntHmImprvCrGrp",
+            "sequenceNum": "1",
+            "lineItems": [            {
+               "lineItemReferenceKeyId": "",
+               "lineNameTxt": "/IRS5695/EgyEffcntHmImprvCrGrp/TaxesLessCreditsAmt",
+               "sequenceNum": "1",
+               "perReturnValueTxt": "",
+               "taxCalculatorValueTxt": "0",
+               "varianceValueTxt": ""
+            }]
+         }]
+      },
+            {
+         "formNum": "IRS6251",
+         "sequenceNum": "1",
+         "lineItems":          [
+                        {
+               "lineItemReferenceKeyId": "",
+               "lineNameTxt": "/IRS6251/AGIOrAGILessDeductionAmt",
+               "sequenceNum": "1",
+               "perReturnValueTxt": "",
+               "taxCalculatorValueTxt": "-26457",
+               "varianceValueTxt": ""
+            },
+                        {
+               "lineItemReferenceKeyId": "",
+               "lineNameTxt": "/IRS6251/ScheduleATaxesAmt",
+               "sequenceNum": "1",
+               "perReturnValueTxt": "",
+               "taxCalculatorValueTxt": "13850",
+               "varianceValueTxt": ""
+            },
+                        {
+               "lineItemReferenceKeyId": "",
+               "lineNameTxt": "/IRS6251/RelatedAdjustmentAmt",
+               "sequenceNum": "1",
+               "perReturnValueTxt": "",
+               "taxCalculatorValueTxt": "0",
+               "varianceValueTxt": ""
+            },
+                        {
+               "lineItemReferenceKeyId": "",
+               "lineNameTxt": "/IRS6251/AlternativeMinTaxableIncomeAmt",
+               "sequenceNum": "1",
+               "perReturnValueTxt": "",
+               "taxCalculatorValueTxt": "-12607",
+               "varianceValueTxt": ""
+            },
+                        {
+               "lineItemReferenceKeyId": "",
+               "lineNameTxt": "/IRS6251/AlternativeMinimumTaxExemptAmt",
+               "sequenceNum": "1",
+               "perReturnValueTxt": "",
+               "taxCalculatorValueTxt": "81300",
+               "varianceValueTxt": ""
+            },
+                        {
+               "lineItemReferenceKeyId": "",
+               "lineNameTxt": "/IRS6251/AdjAlternativeMinTaxableIncAmt",
+               "sequenceNum": "1",
+               "perReturnValueTxt": "",
+               "taxCalculatorValueTxt": "0",
+               "varianceValueTxt": ""
+            },
+                        {
+               "lineItemReferenceKeyId": "",
+               "lineNameTxt": "/IRS6251/TaxOnAltMinTaxableIncAmt",
+               "sequenceNum": "1",
+               "perReturnValueTxt": "",
+               "taxCalculatorValueTxt": "0",
+               "varianceValueTxt": ""
+            },
+                        {
+               "lineItemReferenceKeyId": "",
+               "lineNameTxt": "/IRS6251/TentativeAlternativeMinTaxAmt",
+               "sequenceNum": "1",
+               "perReturnValueTxt": "",
+               "taxCalculatorValueTxt": "0",
+               "varianceValueTxt": ""
+            },
+                        {
+               "lineItemReferenceKeyId": "",
+               "lineNameTxt": "/IRS6251/AdjustedRegularTaxAmt",
+               "sequenceNum": "1",
+               "perReturnValueTxt": "",
+               "taxCalculatorValueTxt": "0",
+               "varianceValueTxt": ""
+            }
+         ]
+      },
+            {
+         "formNum": "IRS8936",
+         "sequenceNum": "1",
+         "lineItems": [         {
+            "lineItemReferenceKeyId": "/IRS8936/MAGIAmountGrp",
+            "lineNameTxt": "/IRS8936/MAGIAmountGrp",
+            "sequenceNum": "1",
+            "lineItems":             [
+                              {
+                  "lineItemReferenceKeyId": "/IRS8936/MAGIAmountGrp/CurrentYrMAGIAmountGrp",
+                  "lineNameTxt": "/IRS8936/MAGIAmountGrp/CurrentYrMAGIAmountGrp",
+                  "sequenceNum": "1",
+                  "lineItems":                   [
+                                          {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS8936/MAGIAmountGrp/CurrentYrMAGIAmountGrp/AdjustedGrossIncomeAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "",
+                        "taxCalculatorValueTxt": "-12607",
+                        "varianceValueTxt": ""
+                     },
+                                          {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS8936/MAGIAmountGrp/CurrentYrMAGIAmountGrp/NetIncomeAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "",
+                        "taxCalculatorValueTxt": "-12607",
+                        "varianceValueTxt": ""
+                     }
+                  ]
+               },
+                              {
+                  "lineItemReferenceKeyId": "",
+                  "lineNameTxt": "/IRS8936/MAGIAmountGrp/MaximumNetIncomeAmt",
+                  "sequenceNum": "1",
+                  "perReturnValueTxt": "",
+                  "taxCalculatorValueTxt": "-12607",
+                  "varianceValueTxt": ""
+               }
+            ]
+         }]
+      },
+            {
+         "formNum": "IRS461",
+         "sequenceNum": "1",
+         "lineItems":          [
+                        {
+               "lineItemReferenceKeyId": "",
+               "lineNameTxt": "/IRS461/FilingStatusThresholdCd",
+               "sequenceNum": "1",
+               "perReturnValueTxt": "",
+               "taxCalculatorValueTxt": "289000",
+               "varianceValueTxt": ""
+            },
+                        {
+               "lineItemReferenceKeyId": "",
+               "lineNameTxt": "/IRS461/ExcessBusinessLossAmt",
+               "sequenceNum": "1",
+               "perReturnValueTxt": "",
+               "taxCalculatorValueTxt": "289000",
+               "varianceValueTxt": ""
+            }
+         ]
+      },
+            {
+         "formNum": "studentloanwksht11",
+         "sequenceNum": "1",
+         "lineItems":          [
+                        {
+               "lineItemReferenceKeyId": "",
+               "lineNameTxt": "/studentloanwksht11/totalInterestPaidAmt",
+               "sequenceNum": "1",
+               "perReturnValueTxt": "",
+               "taxCalculatorValueTxt": "222",
+               "varianceValueTxt": ""
+            },
+                        {
+               "lineItemReferenceKeyId": "",
+               "lineNameTxt": "/studentloanwksht11/interestPaidAmt",
+               "sequenceNum": "1",
+               "perReturnValueTxt": "",
+               "taxCalculatorValueTxt": "222",
+               "varianceValueTxt": ""
+            },
+                        {
+               "lineItemReferenceKeyId": "",
+               "lineNameTxt": "/studentloanwksht11/totalAdjToIncomeAmt",
+               "sequenceNum": "1",
+               "perReturnValueTxt": "",
+               "taxCalculatorValueTxt": "12385",
+               "varianceValueTxt": ""
+            },
+                        {
+               "lineItemReferenceKeyId": "",
+               "lineNameTxt": "/studentloanwksht11/adjustedIncomeAmt",
+               "sequenceNum": "1",
+               "perReturnValueTxt": "",
+               "taxCalculatorValueTxt": "-12385",
+               "varianceValueTxt": ""
+            },
+                        {
+               "lineItemReferenceKeyId": "",
+               "lineNameTxt": "/studentloanwksht11/filingStatusAmtSingleInd",
+               "sequenceNum": "1",
+               "perReturnValueTxt": "",
+               "taxCalculatorValueTxt": "75000",
+               "varianceValueTxt": ""
+            },
+                        {
+               "lineItemReferenceKeyId": "",
+               "lineNameTxt": "/studentloanwksht11/filingStatusAmtMarriedJointInd",
+               "sequenceNum": "1",
+               "perReturnValueTxt": "",
+               "taxCalculatorValueTxt": "75000",
+               "varianceValueTxt": ""
+            },
+                        {
+               "lineItemReferenceKeyId": "",
+               "lineNameTxt": "/studentloanwksht11/filingAmt",
+               "sequenceNum": "1",
+               "perReturnValueTxt": "",
+               "taxCalculatorValueTxt": "75000",
+               "varianceValueTxt": ""
+            },
+                        {
+               "lineItemReferenceKeyId": "",
+               "lineNameTxt": "/studentloanwksht11/studentLoanInterestDeductionAmt",
+               "sequenceNum": "1",
+               "perReturnValueTxt": "",
+               "taxCalculatorValueTxt": "222",
+               "varianceValueTxt": ""
+            }
+         ]
+      },
+            {
+         "formNum": "IRS8962",
+         "sequenceNum": "1",
+         "lineItems":          [
+                        {
+               "lineItemReferenceKeyId": "",
+               "lineNameTxt": "/IRS8962/ModifiedAGIAmt",
+               "sequenceNum": "1",
+               "perReturnValueTxt": "",
+               "taxCalculatorValueTxt": "-12607",
+               "varianceValueTxt": ""
+            },
+                        {
+               "lineItemReferenceKeyId": "",
+               "lineNameTxt": "/IRS8962/PovertyLevelAmt",
+               "sequenceNum": "1",
+               "perReturnValueTxt": "",
+               "taxCalculatorValueTxt": "13590",
+               "varianceValueTxt": ""
+            }
+         ]
+      }
+   ]}
+}
