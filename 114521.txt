@@ -1,0 +1,2774 @@
+{
+    "header": {
+        "taxPrd": "202312",
+        "mftCd": 30,
+        "correlationId": "3d1f65a2-a97a-4be3-ba0d-b0f7b8e1bae1",
+        "transactionId": "a6f8ead2-8ea9-451c-aa5a-e90ed7c7a945",
+        "calcDt": "10/05/2024",
+        "reportDt": "10/05/2024",
+        "submitterId": "taxcalc.julioes.com",
+        "calcTypeTxt": "Agreed",
+        "primaryTIN": "111111111"
+    },
+    "body": {
+        "forms": [
+            {
+                "formNum": "IRS1040",
+                "sequenceNum": "1",
+                "lineItems": [
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040/IndividualReturnFilingStatusCd",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "1",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040/VirtualCurAcquiredDurTYInd",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "true",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040/TotalExemptPrimaryAndSpouseCnt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "1",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040/TotalExemptionsCnt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "1",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040/TotalAdditionalIncomeAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "96966",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040/TotalIncomeAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "96966",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040/AdjustedGrossIncomeAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "96966",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040/TotalItemizedOrStandardDedAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "13850",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040/TotalDeductionsAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "13850",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040/TaxableIncomeAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "83116",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040/TaxAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "13595",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040/TotalTaxBeforeCrAndOthTaxesAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "13595",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040/TaxLessCreditsAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "13595",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040/TotalTaxAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "13595",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040/OwedAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "14223",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040/EsPenaltyAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "628",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040/ThirdPartyDesigneeInd",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "false",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040/RefundProductCd",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "NO FINANCIAL PRODUCT",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    }
+                ]
+            },
+            {
+                "formNum": "IRS1040Schedule1",
+                "sequenceNum": "1",
+                "lineItems": [
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040Schedule1/RentalRealEstateIncomeLossAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "96966",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040Schedule1/TotalAdditionalIncomeAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "96966",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    }
+                ]
+            },
+            {
+                "formNum": "IRS1040ScheduleE",
+                "sequenceNum": "1",
+                "lineItems": [
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040ScheduleE/PropertyRealEstAndRoyaltyGroup",
+                        "sequenceNum": "1",
+                        "lineItems": [
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS1040ScheduleE/PropertyRealEstAndRoyaltyGroup/PropertyUSAddress",
+                                "sequenceNum": "1",
+                                "lineItems": [
+                                    {
+                                        "lineItemReferenceKeyId": "",
+                                        "lineNameTxt": "/IRS1040ScheduleE/PropertyRealEstAndRoyaltyGroup/PropertyUSAddress/AddressLine1Txt",
+                                        "sequenceNum": "1",
+                                        "perReturnValueTxt": "999 Any Street",
+                                        "taxCalculatorValueTxt": "",
+                                        "varianceValueTxt": ""
+                                    },
+                                    {
+                                        "lineItemReferenceKeyId": "",
+                                        "lineNameTxt": "/IRS1040ScheduleE/PropertyRealEstAndRoyaltyGroup/PropertyUSAddress/CityNm",
+                                        "sequenceNum": "1",
+                                        "perReturnValueTxt": "Paramus",
+                                        "taxCalculatorValueTxt": "",
+                                        "varianceValueTxt": ""
+                                    },
+                                    {
+                                        "lineItemReferenceKeyId": "",
+                                        "lineNameTxt": "/IRS1040ScheduleE/PropertyRealEstAndRoyaltyGroup/PropertyUSAddress/StateAbbreviationCd",
+                                        "sequenceNum": "1",
+                                        "perReturnValueTxt": "NJ",
+                                        "taxCalculatorValueTxt": "",
+                                        "varianceValueTxt": ""
+                                    },
+                                    {
+                                        "lineItemReferenceKeyId": "",
+                                        "lineNameTxt": "/IRS1040ScheduleE/PropertyRealEstAndRoyaltyGroup/PropertyUSAddress/ZIPCd",
+                                        "sequenceNum": "1",
+                                        "perReturnValueTxt": "07652",
+                                        "taxCalculatorValueTxt": "",
+                                        "varianceValueTxt": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS1040ScheduleE/PropertyRealEstAndRoyaltyGroup/PropertyDesc",
+                                "sequenceNum": "1",
+                                "perReturnValueTxt": "SINGLE FAMILY RESIDENCE",
+                                "taxCalculatorValueTxt": "",
+                                "varianceValueTxt": ""
+                            },
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS1040ScheduleE/PropertyRealEstAndRoyaltyGroup/RentsReceivedAmt",
+                                "sequenceNum": "1",
+                                "perReturnValueTxt": "50000",
+                                "taxCalculatorValueTxt": "",
+                                "varianceValueTxt": ""
+                            },
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS1040ScheduleE/PropertyRealEstAndRoyaltyGroup/AdvertisingAmt",
+                                "sequenceNum": "1",
+                                "perReturnValueTxt": "2000",
+                                "taxCalculatorValueTxt": "",
+                                "varianceValueTxt": ""
+                            },
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS1040ScheduleE/PropertyRealEstAndRoyaltyGroup/CleaningAndMaintenanceAmt",
+                                "sequenceNum": "1",
+                                "perReturnValueTxt": "1000",
+                                "taxCalculatorValueTxt": "",
+                                "varianceValueTxt": ""
+                            },
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS1040ScheduleE/PropertyRealEstAndRoyaltyGroup/ManagementFeesAmt",
+                                "sequenceNum": "1",
+                                "perReturnValueTxt": "7500",
+                                "taxCalculatorValueTxt": "",
+                                "varianceValueTxt": ""
+                            },
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS1040ScheduleE/PropertyRealEstAndRoyaltyGroup/MortgageInterestPaidBanksAmt",
+                                "sequenceNum": "1",
+                                "perReturnValueTxt": "25000",
+                                "taxCalculatorValueTxt": "",
+                                "varianceValueTxt": ""
+                            },
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS1040ScheduleE/PropertyRealEstAndRoyaltyGroup/DeprecExpenseOrDepletionAmt",
+                                "sequenceNum": "1",
+                                "perReturnValueTxt": "18000",
+                                "taxCalculatorValueTxt": "",
+                                "varianceValueTxt": ""
+                            },
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS1040ScheduleE/PropertyRealEstAndRoyaltyGroup/OtherExpenseDetail",
+                                "sequenceNum": "1",
+                                "lineItems": [
+                                    {
+                                        "lineItemReferenceKeyId": "",
+                                        "lineNameTxt": "/IRS1040ScheduleE/PropertyRealEstAndRoyaltyGroup/OtherExpenseDetail/Desc",
+                                        "sequenceNum": "1",
+                                        "perReturnValueTxt": "Snow",
+                                        "taxCalculatorValueTxt": "",
+                                        "varianceValueTxt": ""
+                                    },
+                                    {
+                                        "lineItemReferenceKeyId": "",
+                                        "lineNameTxt": "/IRS1040ScheduleE/PropertyRealEstAndRoyaltyGroup/OtherExpenseDetail/Amt",
+                                        "sequenceNum": "1",
+                                        "perReturnValueTxt": "600",
+                                        "taxCalculatorValueTxt": "",
+                                        "varianceValueTxt": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS1040ScheduleE/PropertyRealEstAndRoyaltyGroup/TotalExpensesAmt",
+                                "sequenceNum": "1",
+                                "perReturnValueTxt": "54100",
+                                "taxCalculatorValueTxt": "",
+                                "varianceValueTxt": ""
+                            },
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS1040ScheduleE/PropertyRealEstAndRoyaltyGroup/NetRentalIncomeOrLossAmt",
+                                "sequenceNum": "1",
+                                "perReturnValueTxt": "-4100",
+                                "taxCalculatorValueTxt": "",
+                                "varianceValueTxt": ""
+                            },
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS1040ScheduleE/PropertyRealEstAndRoyaltyGroup/DedRentalRealEstateLossAmt",
+                                "sequenceNum": "1",
+                                "perReturnValueTxt": "2780",
+                                "taxCalculatorValueTxt": "",
+                                "varianceValueTxt": ""
+                            }
+                        ]
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040ScheduleE/PropertyRealEstAndRoyaltyGroup",
+                        "sequenceNum": "2",
+                        "lineItems": [
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS1040ScheduleE/PropertyRealEstAndRoyaltyGroup/PropertyUSAddress",
+                                "sequenceNum": "1",
+                                "lineItems": [
+                                    {
+                                        "lineItemReferenceKeyId": "",
+                                        "lineNameTxt": "/IRS1040ScheduleE/PropertyRealEstAndRoyaltyGroup/PropertyUSAddress/AddressLine1Txt",
+                                        "sequenceNum": "1",
+                                        "perReturnValueTxt": "456 Any Road",
+                                        "taxCalculatorValueTxt": "",
+                                        "varianceValueTxt": ""
+                                    },
+                                    {
+                                        "lineItemReferenceKeyId": "",
+                                        "lineNameTxt": "/IRS1040ScheduleE/PropertyRealEstAndRoyaltyGroup/PropertyUSAddress/CityNm",
+                                        "sequenceNum": "1",
+                                        "perReturnValueTxt": "Paramus",
+                                        "taxCalculatorValueTxt": "",
+                                        "varianceValueTxt": ""
+                                    },
+                                    {
+                                        "lineItemReferenceKeyId": "",
+                                        "lineNameTxt": "/IRS1040ScheduleE/PropertyRealEstAndRoyaltyGroup/PropertyUSAddress/StateAbbreviationCd",
+                                        "sequenceNum": "1",
+                                        "perReturnValueTxt": "NJ",
+                                        "taxCalculatorValueTxt": "",
+                                        "varianceValueTxt": ""
+                                    },
+                                    {
+                                        "lineItemReferenceKeyId": "",
+                                        "lineNameTxt": "/IRS1040ScheduleE/PropertyRealEstAndRoyaltyGroup/PropertyUSAddress/ZIPCd",
+                                        "sequenceNum": "1",
+                                        "perReturnValueTxt": "07652",
+                                        "taxCalculatorValueTxt": "",
+                                        "varianceValueTxt": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS1040ScheduleE/PropertyRealEstAndRoyaltyGroup/PropertyDesc",
+                                "sequenceNum": "1",
+                                "perReturnValueTxt": "SINGLE FAMILY RESIDENCE",
+                                "taxCalculatorValueTxt": "",
+                                "varianceValueTxt": ""
+                            },
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS1040ScheduleE/PropertyRealEstAndRoyaltyGroup/RentsReceivedAmt",
+                                "sequenceNum": "1",
+                                "perReturnValueTxt": "75000",
+                                "taxCalculatorValueTxt": "",
+                                "varianceValueTxt": ""
+                            },
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS1040ScheduleE/PropertyRealEstAndRoyaltyGroup/AdvertisingAmt",
+                                "sequenceNum": "1",
+                                "perReturnValueTxt": "1000",
+                                "taxCalculatorValueTxt": "",
+                                "varianceValueTxt": ""
+                            },
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS1040ScheduleE/PropertyRealEstAndRoyaltyGroup/AutoAndTravelAmt",
+                                "sequenceNum": "1",
+                                "perReturnValueTxt": "2000",
+                                "taxCalculatorValueTxt": "",
+                                "varianceValueTxt": ""
+                            },
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS1040ScheduleE/PropertyRealEstAndRoyaltyGroup/CleaningAndMaintenanceAmt",
+                                "sequenceNum": "1",
+                                "perReturnValueTxt": "3000",
+                                "taxCalculatorValueTxt": "",
+                                "varianceValueTxt": ""
+                            },
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS1040ScheduleE/PropertyRealEstAndRoyaltyGroup/CommissionsAmt",
+                                "sequenceNum": "1",
+                                "perReturnValueTxt": "4000",
+                                "taxCalculatorValueTxt": "",
+                                "varianceValueTxt": ""
+                            },
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS1040ScheduleE/PropertyRealEstAndRoyaltyGroup/InsuranceAmt",
+                                "sequenceNum": "1",
+                                "perReturnValueTxt": "5000",
+                                "taxCalculatorValueTxt": "",
+                                "varianceValueTxt": ""
+                            },
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS1040ScheduleE/PropertyRealEstAndRoyaltyGroup/LegalAndOtherProfFeesAmt",
+                                "sequenceNum": "1",
+                                "perReturnValueTxt": "6000",
+                                "taxCalculatorValueTxt": "",
+                                "varianceValueTxt": ""
+                            },
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS1040ScheduleE/PropertyRealEstAndRoyaltyGroup/ManagementFeesAmt",
+                                "sequenceNum": "1",
+                                "perReturnValueTxt": "7000",
+                                "taxCalculatorValueTxt": "",
+                                "varianceValueTxt": ""
+                            },
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS1040ScheduleE/PropertyRealEstAndRoyaltyGroup/MortgageInterestPaidBanksAmt",
+                                "sequenceNum": "1",
+                                "perReturnValueTxt": "8000",
+                                "taxCalculatorValueTxt": "",
+                                "varianceValueTxt": ""
+                            },
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS1040ScheduleE/PropertyRealEstAndRoyaltyGroup/MortgageInterestPaidOtherAmt",
+                                "sequenceNum": "1",
+                                "perReturnValueTxt": "30000",
+                                "taxCalculatorValueTxt": "",
+                                "varianceValueTxt": ""
+                            },
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS1040ScheduleE/PropertyRealEstAndRoyaltyGroup/RepairsAmt",
+                                "sequenceNum": "1",
+                                "perReturnValueTxt": "12000",
+                                "taxCalculatorValueTxt": "",
+                                "varianceValueTxt": ""
+                            },
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS1040ScheduleE/PropertyRealEstAndRoyaltyGroup/SuppliesAmt",
+                                "sequenceNum": "1",
+                                "perReturnValueTxt": "13000",
+                                "taxCalculatorValueTxt": "",
+                                "varianceValueTxt": ""
+                            },
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS1040ScheduleE/PropertyRealEstAndRoyaltyGroup/TaxesAmt",
+                                "sequenceNum": "1",
+                                "perReturnValueTxt": "14000",
+                                "taxCalculatorValueTxt": "",
+                                "varianceValueTxt": ""
+                            },
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS1040ScheduleE/PropertyRealEstAndRoyaltyGroup/UtilitiesAmt",
+                                "sequenceNum": "1",
+                                "perReturnValueTxt": "15000",
+                                "taxCalculatorValueTxt": "",
+                                "varianceValueTxt": ""
+                            },
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS1040ScheduleE/PropertyRealEstAndRoyaltyGroup/TotalExpensesAmt",
+                                "sequenceNum": "1",
+                                "perReturnValueTxt": "120000",
+                                "taxCalculatorValueTxt": "",
+                                "varianceValueTxt": ""
+                            },
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS1040ScheduleE/PropertyRealEstAndRoyaltyGroup/NetRentalIncomeOrLossAmt",
+                                "sequenceNum": "1",
+                                "perReturnValueTxt": "-45000",
+                                "taxCalculatorValueTxt": "",
+                                "varianceValueTxt": ""
+                            },
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS1040ScheduleE/PropertyRealEstAndRoyaltyGroup/DedRentalRealEstateLossAmt",
+                                "sequenceNum": "1",
+                                "perReturnValueTxt": "30514",
+                                "taxCalculatorValueTxt": "",
+                                "varianceValueTxt": ""
+                            }
+                        ]
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040ScheduleE/PropertyRealEstAndRoyaltyGroup",
+                        "sequenceNum": "3",
+                        "lineItems": [
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS1040ScheduleE/PropertyRealEstAndRoyaltyGroup/PropertyUSAddress",
+                                "sequenceNum": "1",
+                                "lineItems": [
+                                    {
+                                        "lineItemReferenceKeyId": "",
+                                        "lineNameTxt": "/IRS1040ScheduleE/PropertyRealEstAndRoyaltyGroup/PropertyUSAddress/AddressLine1Txt",
+                                        "sequenceNum": "1",
+                                        "perReturnValueTxt": "999 Nowhere Street",
+                                        "taxCalculatorValueTxt": "",
+                                        "varianceValueTxt": ""
+                                    },
+                                    {
+                                        "lineItemReferenceKeyId": "",
+                                        "lineNameTxt": "/IRS1040ScheduleE/PropertyRealEstAndRoyaltyGroup/PropertyUSAddress/CityNm",
+                                        "sequenceNum": "1",
+                                        "perReturnValueTxt": "Paramus",
+                                        "taxCalculatorValueTxt": "",
+                                        "varianceValueTxt": ""
+                                    },
+                                    {
+                                        "lineItemReferenceKeyId": "",
+                                        "lineNameTxt": "/IRS1040ScheduleE/PropertyRealEstAndRoyaltyGroup/PropertyUSAddress/StateAbbreviationCd",
+                                        "sequenceNum": "1",
+                                        "perReturnValueTxt": "NJ",
+                                        "taxCalculatorValueTxt": "",
+                                        "varianceValueTxt": ""
+                                    },
+                                    {
+                                        "lineItemReferenceKeyId": "",
+                                        "lineNameTxt": "/IRS1040ScheduleE/PropertyRealEstAndRoyaltyGroup/PropertyUSAddress/ZIPCd",
+                                        "sequenceNum": "1",
+                                        "perReturnValueTxt": "07652",
+                                        "taxCalculatorValueTxt": "",
+                                        "varianceValueTxt": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS1040ScheduleE/PropertyRealEstAndRoyaltyGroup/PropertyDesc",
+                                "sequenceNum": "1",
+                                "perReturnValueTxt": "MULTI-FAMILY RESIDENCE",
+                                "taxCalculatorValueTxt": "",
+                                "varianceValueTxt": ""
+                            },
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS1040ScheduleE/PropertyRealEstAndRoyaltyGroup/RentsReceivedAmt",
+                                "sequenceNum": "1",
+                                "perReturnValueTxt": "55000",
+                                "taxCalculatorValueTxt": "",
+                                "varianceValueTxt": ""
+                            },
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS1040ScheduleE/PropertyRealEstAndRoyaltyGroup/AdvertisingAmt",
+                                "sequenceNum": "1",
+                                "perReturnValueTxt": "2000",
+                                "taxCalculatorValueTxt": "",
+                                "varianceValueTxt": ""
+                            },
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS1040ScheduleE/PropertyRealEstAndRoyaltyGroup/CommissionsAmt",
+                                "sequenceNum": "1",
+                                "perReturnValueTxt": "15000",
+                                "taxCalculatorValueTxt": "",
+                                "varianceValueTxt": ""
+                            },
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS1040ScheduleE/PropertyRealEstAndRoyaltyGroup/InsuranceAmt",
+                                "sequenceNum": "1",
+                                "perReturnValueTxt": "10000",
+                                "taxCalculatorValueTxt": "",
+                                "varianceValueTxt": ""
+                            },
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS1040ScheduleE/PropertyRealEstAndRoyaltyGroup/MortgageInterestPaidBanksAmt",
+                                "sequenceNum": "1",
+                                "perReturnValueTxt": "20000",
+                                "taxCalculatorValueTxt": "",
+                                "varianceValueTxt": ""
+                            },
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS1040ScheduleE/PropertyRealEstAndRoyaltyGroup/TotalExpensesAmt",
+                                "sequenceNum": "1",
+                                "perReturnValueTxt": "47000",
+                                "taxCalculatorValueTxt": "",
+                                "varianceValueTxt": ""
+                            },
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS1040ScheduleE/PropertyRealEstAndRoyaltyGroup/NetRentalIncomeOrLossAmt",
+                                "sequenceNum": "1",
+                                "perReturnValueTxt": "8000",
+                                "taxCalculatorValueTxt": "",
+                                "varianceValueTxt": ""
+                            }
+                        ]
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040ScheduleE/TotAllPaymentsAllRentalPropAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "180000",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040ScheduleE/TotalMortgageInterestPaidAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "53000",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040ScheduleE/TotalDepreciationAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "18000",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040ScheduleE/TotalAllPropTotalExpensesAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "221100",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040ScheduleE/IncomeAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "8000",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040ScheduleE/LossesAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "33294",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040ScheduleE/TotalIncomeOrLossAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "-25294",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040ScheduleE/PriorYearsLossesInd",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "false",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040ScheduleE/PartnershipOrSCorpGroup",
+                        "sequenceNum": "1",
+                        "lineItems": [
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS1040ScheduleE/PartnershipOrSCorpGroup/PartnershipOrSCorporationNm",
+                                "sequenceNum": "1",
+                                "perReturnValueTxt": "E Part II - PassiveActive",
+                                "taxCalculatorValueTxt": "",
+                                "varianceValueTxt": ""
+                            },
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS1040ScheduleE/PartnershipOrSCorpGroup/PartnershipSCorpCd",
+                                "sequenceNum": "1",
+                                "perReturnValueTxt": "P",
+                                "taxCalculatorValueTxt": "",
+                                "varianceValueTxt": ""
+                            },
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS1040ScheduleE/PartnershipOrSCorpGroup/PartnershipOrSCorpEIN",
+                                "sequenceNum": "1",
+                                "perReturnValueTxt": "111111111",
+                                "taxCalculatorValueTxt": "",
+                                "varianceValueTxt": ""
+                            },
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS1040ScheduleE/PartnershipOrSCorpGroup/PassiveLossAllowedAmt",
+                                "sequenceNum": "1",
+                                "perReturnValueTxt": "4068",
+                                "taxCalculatorValueTxt": "",
+                                "varianceValueTxt": ""
+                            }
+                        ]
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040ScheduleE/PartnershipOrSCorpGroup",
+                        "sequenceNum": "2",
+                        "lineItems": [
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS1040ScheduleE/PartnershipOrSCorpGroup/PartnershipOrSCorporationNm",
+                                "sequenceNum": "1",
+                                "perReturnValueTxt": "E Part II - PassiveOther",
+                                "taxCalculatorValueTxt": "",
+                                "varianceValueTxt": ""
+                            },
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS1040ScheduleE/PartnershipOrSCorpGroup/PartnershipSCorpCd",
+                                "sequenceNum": "1",
+                                "perReturnValueTxt": "S",
+                                "taxCalculatorValueTxt": "",
+                                "varianceValueTxt": ""
+                            },
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS1040ScheduleE/PartnershipOrSCorpGroup/PartnershipOrSCorpEIN",
+                                "sequenceNum": "1",
+                                "perReturnValueTxt": "222222222",
+                                "taxCalculatorValueTxt": "",
+                                "varianceValueTxt": ""
+                            },
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS1040ScheduleE/PartnershipOrSCorpGroup/BusinessPassiveIncomeAmt",
+                                "sequenceNum": "1",
+                                "perReturnValueTxt": "15000",
+                                "taxCalculatorValueTxt": "",
+                                "varianceValueTxt": ""
+                            }
+                        ]
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040ScheduleE/PartnershipOrSCorpGroup",
+                        "sequenceNum": "3",
+                        "lineItems": [
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS1040ScheduleE/PartnershipOrSCorpGroup/PartnershipOrSCorporationNm",
+                                "sequenceNum": "1",
+                                "perReturnValueTxt": "E Part II - PassiveOther 2",
+                                "taxCalculatorValueTxt": "",
+                                "varianceValueTxt": ""
+                            },
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS1040ScheduleE/PartnershipOrSCorpGroup/PartnershipSCorpCd",
+                                "sequenceNum": "1",
+                                "perReturnValueTxt": "P",
+                                "taxCalculatorValueTxt": "",
+                                "varianceValueTxt": ""
+                            },
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS1040ScheduleE/PartnershipOrSCorpGroup/PartnershipOrSCorpEIN",
+                                "sequenceNum": "1",
+                                "perReturnValueTxt": "333333333",
+                                "taxCalculatorValueTxt": "",
+                                "varianceValueTxt": ""
+                            },
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS1040ScheduleE/PartnershipOrSCorpGroup/PassiveLossAllowedAmt",
+                                "sequenceNum": "1",
+                                "perReturnValueTxt": "6982",
+                                "taxCalculatorValueTxt": "",
+                                "varianceValueTxt": ""
+                            }
+                        ]
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040ScheduleE/PartnershipOrSCorpGroup",
+                        "sequenceNum": "4",
+                        "lineItems": [
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS1040ScheduleE/PartnershipOrSCorpGroup/PartnershipOrSCorporationNm",
+                                "sequenceNum": "1",
+                                "perReturnValueTxt": "E Part II - PassiveOther 3",
+                                "taxCalculatorValueTxt": "",
+                                "varianceValueTxt": ""
+                            },
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS1040ScheduleE/PartnershipOrSCorpGroup/PartnershipSCorpCd",
+                                "sequenceNum": "1",
+                                "perReturnValueTxt": "S",
+                                "taxCalculatorValueTxt": "",
+                                "varianceValueTxt": ""
+                            },
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS1040ScheduleE/PartnershipOrSCorpGroup/PartnershipOrSCorpEIN",
+                                "sequenceNum": "1",
+                                "perReturnValueTxt": "444444444",
+                                "taxCalculatorValueTxt": "",
+                                "varianceValueTxt": ""
+                            },
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS1040ScheduleE/PartnershipOrSCorpGroup/BasisComputationRequiredInd",
+                                "sequenceNum": "1",
+                                "perReturnValueTxt": "X",
+                                "taxCalculatorValueTxt": "",
+                                "varianceValueTxt": ""
+                            },
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS1040ScheduleE/PartnershipOrSCorpGroup/PassiveLossAllowedAmt",
+                                "sequenceNum": "1",
+                                "perReturnValueTxt": "3655",
+                                "taxCalculatorValueTxt": "",
+                                "varianceValueTxt": ""
+                            }
+                        ]
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040ScheduleE/PartnershipOrSCorpGroup",
+                        "sequenceNum": "5",
+                        "lineItems": [
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS1040ScheduleE/PartnershipOrSCorpGroup/PartnershipOrSCorporationNm",
+                                "sequenceNum": "1",
+                                "perReturnValueTxt": "E Part II - Nonpasive",
+                                "taxCalculatorValueTxt": "",
+                                "varianceValueTxt": ""
+                            },
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS1040ScheduleE/PartnershipOrSCorpGroup/PartnershipSCorpCd",
+                                "sequenceNum": "1",
+                                "perReturnValueTxt": "P",
+                                "taxCalculatorValueTxt": "",
+                                "varianceValueTxt": ""
+                            },
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS1040ScheduleE/PartnershipOrSCorpGroup/PartnershipOrSCorpEIN",
+                                "sequenceNum": "1",
+                                "perReturnValueTxt": "666666666",
+                                "taxCalculatorValueTxt": "",
+                                "varianceValueTxt": ""
+                            },
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS1040ScheduleE/PartnershipOrSCorpGroup/NonpassiveLossAmt",
+                                "sequenceNum": "1",
+                                "perReturnValueTxt": "7500",
+                                "taxCalculatorValueTxt": "",
+                                "varianceValueTxt": ""
+                            }
+                        ]
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040ScheduleE/PartnershipOrSCorpGroup",
+                        "sequenceNum": "6",
+                        "lineItems": [
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS1040ScheduleE/PartnershipOrSCorpGroup/PartnershipOrSCorporationNm",
+                                "sequenceNum": "1",
+                                "perReturnValueTxt": "E Part II - Nonpassive 2",
+                                "taxCalculatorValueTxt": "",
+                                "varianceValueTxt": ""
+                            },
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS1040ScheduleE/PartnershipOrSCorpGroup/PartnershipSCorpCd",
+                                "sequenceNum": "1",
+                                "perReturnValueTxt": "P",
+                                "taxCalculatorValueTxt": "",
+                                "varianceValueTxt": ""
+                            },
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS1040ScheduleE/PartnershipOrSCorpGroup/PartnershipOrSCorpEIN",
+                                "sequenceNum": "1",
+                                "perReturnValueTxt": "777777777",
+                                "taxCalculatorValueTxt": "",
+                                "varianceValueTxt": ""
+                            },
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS1040ScheduleE/PartnershipOrSCorpGroup/NonpassiveIncomeAmt",
+                                "sequenceNum": "1",
+                                "perReturnValueTxt": "98500",
+                                "taxCalculatorValueTxt": "",
+                                "varianceValueTxt": ""
+                            }
+                        ]
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040ScheduleE/PartnershipOrSCorpGroup",
+                        "sequenceNum": "7",
+                        "lineItems": [
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS1040ScheduleE/PartnershipOrSCorpGroup/PartnershipOrSCorporationNm",
+                                "sequenceNum": "1",
+                                "perReturnValueTxt": "E Part II - 179",
+                                "taxCalculatorValueTxt": "",
+                                "varianceValueTxt": ""
+                            },
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS1040ScheduleE/PartnershipOrSCorpGroup/PartnershipSCorpCd",
+                                "sequenceNum": "1",
+                                "perReturnValueTxt": "P",
+                                "taxCalculatorValueTxt": "",
+                                "varianceValueTxt": ""
+                            },
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS1040ScheduleE/PartnershipOrSCorpGroup/PartnershipOrSCorpEIN",
+                                "sequenceNum": "1",
+                                "perReturnValueTxt": "999999999",
+                                "taxCalculatorValueTxt": "",
+                                "varianceValueTxt": ""
+                            },
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS1040ScheduleE/PartnershipOrSCorpGroup/Section179ExpenseDeductionAmt",
+                                "sequenceNum": "1",
+                                "perReturnValueTxt": "6000",
+                                "taxCalculatorValueTxt": "",
+                                "varianceValueTxt": ""
+                            },
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS1040ScheduleE/PartnershipOrSCorpGroup/NonpassiveIncomeAmt",
+                                "sequenceNum": "1",
+                                "perReturnValueTxt": "11000",
+                                "taxCalculatorValueTxt": "",
+                                "varianceValueTxt": ""
+                            }
+                        ]
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040ScheduleE/TotalPassiveIncomeAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "15000",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040ScheduleE/BusTotalNonpassiveIncomeAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "109500",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040ScheduleE/TotalPassiveLossAllowedAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "14705",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040ScheduleE/TotalNonpassiveLossAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "7500",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040ScheduleE/TotSect179ExpenseDeductionAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "6000",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040ScheduleE/TotalPrtshpSCorpIncomeAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "124500",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040ScheduleE/TotalPrtshpSCorpLossAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "28205",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040ScheduleE/NetPrtshpSCorpIncomeOrLossAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "96295",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040ScheduleE/EstateAndTrustGroup",
+                        "sequenceNum": "1",
+                        "lineItems": [
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS1040ScheduleE/EstateAndTrustGroup/EstateOrTrustName",
+                                "sequenceNum": "1",
+                                "lineItems": [
+                                    {
+                                        "lineItemReferenceKeyId": "",
+                                        "lineNameTxt": "/IRS1040ScheduleE/EstateAndTrustGroup/EstateOrTrustName/BusinessNameLine1Txt",
+                                        "sequenceNum": "1",
+                                        "perReturnValueTxt": "E Part III - Nonpassive",
+                                        "taxCalculatorValueTxt": "",
+                                        "varianceValueTxt": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS1040ScheduleE/EstateAndTrustGroup/EstateOrTrustEIN",
+                                "sequenceNum": "1",
+                                "perReturnValueTxt": "987654321",
+                                "taxCalculatorValueTxt": "",
+                                "varianceValueTxt": ""
+                            },
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS1040ScheduleE/EstateAndTrustGroup/OtherIncomeAmt",
+                                "sequenceNum": "1",
+                                "perReturnValueTxt": "6765",
+                                "taxCalculatorValueTxt": "",
+                                "varianceValueTxt": ""
+                            }
+                        ]
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040ScheduleE/EstateAndTrustGroup",
+                        "sequenceNum": "2",
+                        "lineItems": [
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS1040ScheduleE/EstateAndTrustGroup/EstateOrTrustName",
+                                "sequenceNum": "1",
+                                "lineItems": [
+                                    {
+                                        "lineItemReferenceKeyId": "",
+                                        "lineNameTxt": "/IRS1040ScheduleE/EstateAndTrustGroup/EstateOrTrustName/BusinessNameLine1Txt",
+                                        "sequenceNum": "1",
+                                        "perReturnValueTxt": "E Part III - Nonpassive",
+                                        "taxCalculatorValueTxt": "",
+                                        "varianceValueTxt": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS1040ScheduleE/EstateAndTrustGroup/EstateOrTrustEIN",
+                                "sequenceNum": "1",
+                                "perReturnValueTxt": "123456789",
+                                "taxCalculatorValueTxt": "",
+                                "varianceValueTxt": ""
+                            },
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS1040ScheduleE/EstateAndTrustGroup/DeductionOrLossAmt",
+                                "sequenceNum": "1",
+                                "perReturnValueTxt": "-9000",
+                                "taxCalculatorValueTxt": "",
+                                "varianceValueTxt": ""
+                            }
+                        ]
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040ScheduleE/TotalOtherIncomeAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "6765",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040ScheduleE/TotalDeductionOrLossAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "-9000",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040ScheduleE/TotalEstateOrTrustIncomeAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "6765",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040ScheduleE/TotalEstateOrTrustLossAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "9000",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040ScheduleE/TotEstateAndTrustIncOrLossAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "-2235",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040ScheduleE/REMICGroup",
+                        "sequenceNum": "1",
+                        "lineItems": [
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS1040ScheduleE/REMICGroup/REMICName",
+                                "sequenceNum": "1",
+                                "lineItems": [
+                                    {
+                                        "lineItemReferenceKeyId": "",
+                                        "lineNameTxt": "/IRS1040ScheduleE/REMICGroup/REMICName/BusinessNameLine1Txt",
+                                        "sequenceNum": "1",
+                                        "perReturnValueTxt": "REMIC",
+                                        "taxCalculatorValueTxt": "",
+                                        "varianceValueTxt": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS1040ScheduleE/REMICGroup/REMICEIN",
+                                "sequenceNum": "1",
+                                "perReturnValueTxt": "900000000",
+                                "taxCalculatorValueTxt": "",
+                                "varianceValueTxt": ""
+                            },
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS1040ScheduleE/REMICGroup/ExcessInclusionAmt",
+                                "sequenceNum": "1",
+                                "perReturnValueTxt": "6000",
+                                "taxCalculatorValueTxt": "",
+                                "varianceValueTxt": ""
+                            },
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS1040ScheduleE/REMICGroup/TaxableIncomeOrNetLossAmt",
+                                "sequenceNum": "1",
+                                "perReturnValueTxt": "30000",
+                                "taxCalculatorValueTxt": "",
+                                "varianceValueTxt": ""
+                            },
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS1040ScheduleE/REMICGroup/REMICIncomeAmt",
+                                "sequenceNum": "1",
+                                "perReturnValueTxt": "5000",
+                                "taxCalculatorValueTxt": "",
+                                "varianceValueTxt": ""
+                            }
+                        ]
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040ScheduleE/REMICGroup",
+                        "sequenceNum": "2",
+                        "lineItems": [
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS1040ScheduleE/REMICGroup/REMICName",
+                                "sequenceNum": "1",
+                                "lineItems": [
+                                    {
+                                        "lineItemReferenceKeyId": "",
+                                        "lineNameTxt": "/IRS1040ScheduleE/REMICGroup/REMICName/BusinessNameLine1Txt",
+                                        "sequenceNum": "1",
+                                        "perReturnValueTxt": "REMIC 2",
+                                        "taxCalculatorValueTxt": "",
+                                        "varianceValueTxt": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS1040ScheduleE/REMICGroup/REMICEIN",
+                                "sequenceNum": "1",
+                                "perReturnValueTxt": "999999999",
+                                "taxCalculatorValueTxt": "",
+                                "varianceValueTxt": ""
+                            },
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS1040ScheduleE/REMICGroup/TaxableIncomeOrNetLossAmt",
+                                "sequenceNum": "1",
+                                "perReturnValueTxt": "-6800",
+                                "taxCalculatorValueTxt": "",
+                                "varianceValueTxt": ""
+                            }
+                        ]
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040ScheduleE/TotalREMICIncomeAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "28200",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS1040ScheduleE/TotalSuppIncomeOrLossAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "96966",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    }
+                ]
+            },
+            {
+                "formNum": "IRS7203",
+                "sequenceNum": "1",
+                "lineItems": [
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS7203/ShareholderPersonNm",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "Josh Sch E",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS7203/ShareholderSSN",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "111111111",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS7203/SCorporationName",
+                        "sequenceNum": "1",
+                        "lineItems": [
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS7203/SCorporationName/BusinessNameLine1Txt",
+                                "sequenceNum": "1",
+                                "perReturnValueTxt": "E Part II - PassiveOther 3",
+                                "taxCalculatorValueTxt": "",
+                                "varianceValueTxt": ""
+                            }
+                        ]
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS7203/SCorporationEIN",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "444444444",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS7203/StockBasisBeginTaxYearAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "1000000",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS7203/TotalK1IncomeAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "0",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS7203/StockBasisBfrDistributionsAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "1000000",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS7203/StockBasisAftrDistributionsAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "1000000",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS7203/StockBasisBeforeLossDedAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "1000000",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS7203/TotalDecreaseStockBasisAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "8900",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS7203/StockBasisEndTaxYearAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "991100",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS7203/ShrCurrentYrLossDeductionsGrp",
+                        "sequenceNum": "1",
+                        "lineItems": [
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS7203/ShrCurrentYrLossDeductionsGrp/OrdinaryBusinessLossAmt",
+                                "sequenceNum": "1",
+                                "perReturnValueTxt": "8900",
+                                "taxCalculatorValueTxt": "",
+                                "varianceValueTxt": ""
+                            },
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS7203/ShrCurrentYrLossDeductionsGrp/TotalAllowableLossAmt",
+                                "sequenceNum": "1",
+                                "perReturnValueTxt": "8900",
+                                "taxCalculatorValueTxt": "",
+                                "varianceValueTxt": ""
+                            }
+                        ]
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS7203/ShrAllwblLossFromStockBasisGrp",
+                        "sequenceNum": "1",
+                        "lineItems": [
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS7203/ShrAllwblLossFromStockBasisGrp/OrdinaryBusinessLossAmt",
+                                "sequenceNum": "1",
+                                "perReturnValueTxt": "8900",
+                                "taxCalculatorValueTxt": "",
+                                "varianceValueTxt": ""
+                            },
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS7203/ShrAllwblLossFromStockBasisGrp/TotalAllowableLossAmt",
+                                "sequenceNum": "1",
+                                "perReturnValueTxt": "8900",
+                                "taxCalculatorValueTxt": "",
+                                "varianceValueTxt": ""
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "formNum": "IRS4562",
+                "sequenceNum": "1",
+                "lineItems": [
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS4562/BusinessOrActivityTxt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "E Part I - A",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS4562/OtherDepreciationAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "18000",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS4562/TotalDepreciationAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "18000",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    }
+                ]
+            },
+            {
+                "formNum": "IRS4562",
+                "sequenceNum": "2",
+                "lineItems": [
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS4562/BusinessOrActivityTxt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "E Part II - 179",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS4562/MaximumDollarLimitationAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "1160000",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS4562/TotalCostOfSection179PropAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "6000",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS4562/ThresholdCostOfSect179PropAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "2890000",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS4562/DollarLimitationForTaxYearAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "1160000",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS4562/ElectedProperty",
+                        "sequenceNum": "1",
+                        "lineItems": [
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS4562/ElectedProperty/PropertyDesc",
+                                "sequenceNum": "1",
+                                "perReturnValueTxt": "From K-1",
+                                "taxCalculatorValueTxt": "",
+                                "varianceValueTxt": ""
+                            },
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS4562/ElectedProperty/CostForBusinessUseOnlyAmt",
+                                "sequenceNum": "1",
+                                "perReturnValueTxt": "6000",
+                                "taxCalculatorValueTxt": "",
+                                "varianceValueTxt": ""
+                            },
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS4562/ElectedProperty/ElectedCostAmt",
+                                "sequenceNum": "1",
+                                "perReturnValueTxt": "6000",
+                                "taxCalculatorValueTxt": "",
+                                "varianceValueTxt": ""
+                            }
+                        ]
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS4562/TotalElectedCostSect179PropAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "6000",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS4562/TentativeDeductionAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "6000",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS4562/BusinessIncomeLimitationAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "22900",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS4562/Section179ExpenseDeductionAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "6000",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS4562/TotalDepreciationAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "6000",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    }
+                ]
+            },
+            {
+                "formNum": "IRS6251",
+                "sequenceNum": "1",
+                "lineItems": [
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS6251/AGIOrAGILessDeductionAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "83116",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS6251/ScheduleATaxesAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "13850",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS6251/PassiveActivityAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "-2",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS6251/AlternativeMinTaxableIncomeAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "96964",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS6251/AlternativeMinimumTaxExemptAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "81300",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS6251/AdjAlternativeMinTaxableIncAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "15664",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS6251/TaxOnAltMinTaxableIncAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "4073",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS6251/TentativeAlternativeMinTaxAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "4073",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS6251/AdjustedRegularTaxAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "13595",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS6251/AlternativeMinimumTaxAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "0",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    }
+                ]
+            },
+            {
+                "formNum": "IRS8582",
+                "sequenceNum": "1",
+                "lineItems": [
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS8582/RentalRealtyIncomeAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "8000",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS8582/RentalRealtyLossAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "55100",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS8582/NetRentalRealtyAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "-47100",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS8582/OtherActivityIncomeAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "15000",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS8582/OtherActivityLossAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "25900",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS8582/NetOtherActivityAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "-10900",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS8582/TotalPassiveActivityAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "-58000",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS8582/RentalRealtyLossLimitAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "47100",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS8582/MaximumAllowedIncomeAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "150000",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS8582/ModifiedAGIAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "93765",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS8582/ModifiedAGIDifferenceAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "56235",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS8582/PercentNetSpecialAllowanceAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "25000",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS8582/AllowedRentalRealtyLossAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "25000",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS8582/TotalIncomeAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "23000",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS8582/TotalLossesAllowedAmt",
+                        "sequenceNum": "1",
+                        "perReturnValueTxt": "48000",
+                        "taxCalculatorValueTxt": "",
+                        "varianceValueTxt": ""
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS8582/ParentWrkshtRentalActGrp",
+                        "sequenceNum": "1",
+                        "lineItems": [
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS8582/ParentWrkshtRentalActGrp/WrkshtRentalActGrp",
+                                "sequenceNum": "1",
+                                "lineItems": [
+                                    {
+                                        "lineItemReferenceKeyId": "",
+                                        "lineNameTxt": "/IRS8582/ParentWrkshtRentalActGrp/WrkshtRentalActGrp/PassiveActivityNm",
+                                        "sequenceNum": "1",
+                                        "perReturnValueTxt": "E Part I - A",
+                                        "taxCalculatorValueTxt": "",
+                                        "varianceValueTxt": ""
+                                    },
+                                    {
+                                        "lineItemReferenceKeyId": "",
+                                        "lineNameTxt": "/IRS8582/ParentWrkshtRentalActGrp/WrkshtRentalActGrp/CurrentYearNetLossAmt",
+                                        "sequenceNum": "1",
+                                        "perReturnValueTxt": "4100",
+                                        "taxCalculatorValueTxt": "",
+                                        "varianceValueTxt": ""
+                                    },
+                                    {
+                                        "lineItemReferenceKeyId": "",
+                                        "lineNameTxt": "/IRS8582/ParentWrkshtRentalActGrp/WrkshtRentalActGrp/OverallLossAmt",
+                                        "sequenceNum": "1",
+                                        "perReturnValueTxt": "4100",
+                                        "taxCalculatorValueTxt": "",
+                                        "varianceValueTxt": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS8582/ParentWrkshtRentalActGrp/WrkshtRentalActGrp",
+                                "sequenceNum": "1",
+                                "lineItems": [
+                                    {
+                                        "lineItemReferenceKeyId": "",
+                                        "lineNameTxt": "/IRS8582/ParentWrkshtRentalActGrp/WrkshtRentalActGrp/PassiveActivityNm",
+                                        "sequenceNum": "1",
+                                        "perReturnValueTxt": "E Part I - B",
+                                        "taxCalculatorValueTxt": "",
+                                        "varianceValueTxt": ""
+                                    },
+                                    {
+                                        "lineItemReferenceKeyId": "",
+                                        "lineNameTxt": "/IRS8582/ParentWrkshtRentalActGrp/WrkshtRentalActGrp/CurrentYearNetLossAmt",
+                                        "sequenceNum": "1",
+                                        "perReturnValueTxt": "45000",
+                                        "taxCalculatorValueTxt": "",
+                                        "varianceValueTxt": ""
+                                    },
+                                    {
+                                        "lineItemReferenceKeyId": "",
+                                        "lineNameTxt": "/IRS8582/ParentWrkshtRentalActGrp/WrkshtRentalActGrp/OverallLossAmt",
+                                        "sequenceNum": "1",
+                                        "perReturnValueTxt": "45000",
+                                        "taxCalculatorValueTxt": "",
+                                        "varianceValueTxt": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS8582/ParentWrkshtRentalActGrp/WrkshtRentalActGrp",
+                                "sequenceNum": "1",
+                                "lineItems": [
+                                    {
+                                        "lineItemReferenceKeyId": "",
+                                        "lineNameTxt": "/IRS8582/ParentWrkshtRentalActGrp/WrkshtRentalActGrp/PassiveActivityNm",
+                                        "sequenceNum": "1",
+                                        "perReturnValueTxt": "E Part I - C",
+                                        "taxCalculatorValueTxt": "",
+                                        "varianceValueTxt": ""
+                                    },
+                                    {
+                                        "lineItemReferenceKeyId": "",
+                                        "lineNameTxt": "/IRS8582/ParentWrkshtRentalActGrp/WrkshtRentalActGrp/CurrentYearNetIncomeAmt",
+                                        "sequenceNum": "1",
+                                        "perReturnValueTxt": "8000",
+                                        "taxCalculatorValueTxt": "",
+                                        "varianceValueTxt": ""
+                                    },
+                                    {
+                                        "lineItemReferenceKeyId": "",
+                                        "lineNameTxt": "/IRS8582/ParentWrkshtRentalActGrp/WrkshtRentalActGrp/OverallGainAmt",
+                                        "sequenceNum": "1",
+                                        "perReturnValueTxt": "8000",
+                                        "taxCalculatorValueTxt": "",
+                                        "varianceValueTxt": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS8582/ParentWrkshtRentalActGrp/WrkshtRentalActGrp",
+                                "sequenceNum": "1",
+                                "lineItems": [
+                                    {
+                                        "lineItemReferenceKeyId": "",
+                                        "lineNameTxt": "/IRS8582/ParentWrkshtRentalActGrp/WrkshtRentalActGrp/PassiveActivityNm",
+                                        "sequenceNum": "1",
+                                        "perReturnValueTxt": "E Part II - Passive/",
+                                        "taxCalculatorValueTxt": "",
+                                        "varianceValueTxt": ""
+                                    },
+                                    {
+                                        "lineItemReferenceKeyId": "",
+                                        "lineNameTxt": "/IRS8582/ParentWrkshtRentalActGrp/WrkshtRentalActGrp/CurrentYearNetLossAmt",
+                                        "sequenceNum": "1",
+                                        "perReturnValueTxt": "6000",
+                                        "taxCalculatorValueTxt": "",
+                                        "varianceValueTxt": ""
+                                    },
+                                    {
+                                        "lineItemReferenceKeyId": "",
+                                        "lineNameTxt": "/IRS8582/ParentWrkshtRentalActGrp/WrkshtRentalActGrp/OverallLossAmt",
+                                        "sequenceNum": "1",
+                                        "perReturnValueTxt": "6000",
+                                        "taxCalculatorValueTxt": "",
+                                        "varianceValueTxt": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS8582/ParentWrkshtRentalActGrp/TotalCurrentYearNetIncomeAmt",
+                                "sequenceNum": "1",
+                                "perReturnValueTxt": "8000",
+                                "taxCalculatorValueTxt": "",
+                                "varianceValueTxt": ""
+                            },
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS8582/ParentWrkshtRentalActGrp/TotalCurrentYearNetLossAmt",
+                                "sequenceNum": "1",
+                                "perReturnValueTxt": "55100",
+                                "taxCalculatorValueTxt": "",
+                                "varianceValueTxt": ""
+                            }
+                        ]
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS8582/ParentWrkshtPassiveGrp",
+                        "sequenceNum": "1",
+                        "lineItems": [
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS8582/ParentWrkshtPassiveGrp/WrkshtPassiveGrp",
+                                "sequenceNum": "1",
+                                "lineItems": [
+                                    {
+                                        "lineItemReferenceKeyId": "",
+                                        "lineNameTxt": "/IRS8582/ParentWrkshtPassiveGrp/WrkshtPassiveGrp/NonParticipateActivityNm",
+                                        "sequenceNum": "1",
+                                        "perReturnValueTxt": "E Part II - Passive/",
+                                        "taxCalculatorValueTxt": "",
+                                        "varianceValueTxt": ""
+                                    },
+                                    {
+                                        "lineItemReferenceKeyId": "",
+                                        "lineNameTxt": "/IRS8582/ParentWrkshtPassiveGrp/WrkshtPassiveGrp/CurrentYearNetIncomeAmt",
+                                        "sequenceNum": "1",
+                                        "perReturnValueTxt": "15000",
+                                        "taxCalculatorValueTxt": "",
+                                        "varianceValueTxt": ""
+                                    },
+                                    {
+                                        "lineItemReferenceKeyId": "",
+                                        "lineNameTxt": "/IRS8582/ParentWrkshtPassiveGrp/WrkshtPassiveGrp/OverallGainAmt",
+                                        "sequenceNum": "1",
+                                        "perReturnValueTxt": "15000",
+                                        "taxCalculatorValueTxt": "",
+                                        "varianceValueTxt": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS8582/ParentWrkshtPassiveGrp/WrkshtPassiveGrp",
+                                "sequenceNum": "1",
+                                "lineItems": [
+                                    {
+                                        "lineItemReferenceKeyId": "",
+                                        "lineNameTxt": "/IRS8582/ParentWrkshtPassiveGrp/WrkshtPassiveGrp/NonParticipateActivityNm",
+                                        "sequenceNum": "1",
+                                        "perReturnValueTxt": "E Part II - Passive/",
+                                        "taxCalculatorValueTxt": "",
+                                        "varianceValueTxt": ""
+                                    },
+                                    {
+                                        "lineItemReferenceKeyId": "",
+                                        "lineNameTxt": "/IRS8582/ParentWrkshtPassiveGrp/WrkshtPassiveGrp/CurrentYearNetLossAmt",
+                                        "sequenceNum": "1",
+                                        "perReturnValueTxt": "17000",
+                                        "taxCalculatorValueTxt": "",
+                                        "varianceValueTxt": ""
+                                    },
+                                    {
+                                        "lineItemReferenceKeyId": "",
+                                        "lineNameTxt": "/IRS8582/ParentWrkshtPassiveGrp/WrkshtPassiveGrp/OverallLossAmt",
+                                        "sequenceNum": "1",
+                                        "perReturnValueTxt": "17000",
+                                        "taxCalculatorValueTxt": "",
+                                        "varianceValueTxt": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS8582/ParentWrkshtPassiveGrp/WrkshtPassiveGrp",
+                                "sequenceNum": "1",
+                                "lineItems": [
+                                    {
+                                        "lineItemReferenceKeyId": "",
+                                        "lineNameTxt": "/IRS8582/ParentWrkshtPassiveGrp/WrkshtPassiveGrp/NonParticipateActivityNm",
+                                        "sequenceNum": "1",
+                                        "perReturnValueTxt": "E Part II - Passive/",
+                                        "taxCalculatorValueTxt": "",
+                                        "varianceValueTxt": ""
+                                    },
+                                    {
+                                        "lineItemReferenceKeyId": "",
+                                        "lineNameTxt": "/IRS8582/ParentWrkshtPassiveGrp/WrkshtPassiveGrp/CurrentYearNetLossAmt",
+                                        "sequenceNum": "1",
+                                        "perReturnValueTxt": "8900",
+                                        "taxCalculatorValueTxt": "",
+                                        "varianceValueTxt": ""
+                                    },
+                                    {
+                                        "lineItemReferenceKeyId": "",
+                                        "lineNameTxt": "/IRS8582/ParentWrkshtPassiveGrp/WrkshtPassiveGrp/OverallLossAmt",
+                                        "sequenceNum": "1",
+                                        "perReturnValueTxt": "8900",
+                                        "taxCalculatorValueTxt": "",
+                                        "varianceValueTxt": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS8582/ParentWrkshtPassiveGrp/TotalOtherCurrentYearIncomeAmt",
+                                "sequenceNum": "1",
+                                "perReturnValueTxt": "15000",
+                                "taxCalculatorValueTxt": "",
+                                "varianceValueTxt": ""
+                            },
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS8582/ParentWrkshtPassiveGrp/TotalOtherCurrentYearLossAmt",
+                                "sequenceNum": "1",
+                                "perReturnValueTxt": "25900",
+                                "taxCalculatorValueTxt": "",
+                                "varianceValueTxt": ""
+                            }
+                        ]
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS8582/ParentWrkshtAllowanceGrp",
+                        "sequenceNum": "1",
+                        "lineItems": [
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS8582/ParentWrkshtAllowanceGrp/WrkshtAllowanceGrp",
+                                "sequenceNum": "1",
+                                "lineItems": [
+                                    {
+                                        "lineItemReferenceKeyId": "",
+                                        "lineNameTxt": "/IRS8582/ParentWrkshtAllowanceGrp/WrkshtAllowanceGrp/SpecialAllowanceActivityNm",
+                                        "sequenceNum": "1",
+                                        "perReturnValueTxt": "E Part I - A",
+                                        "taxCalculatorValueTxt": "",
+                                        "varianceValueTxt": ""
+                                    },
+                                    {
+                                        "lineItemReferenceKeyId": "",
+                                        "lineNameTxt": "/IRS8582/ParentWrkshtAllowanceGrp/WrkshtAllowanceGrp/ReportingFormOrScheduleNm",
+                                        "sequenceNum": "1",
+                                        "perReturnValueTxt": "Sch E, 25",
+                                        "taxCalculatorValueTxt": "",
+                                        "varianceValueTxt": ""
+                                    },
+                                    {
+                                        "lineItemReferenceKeyId": "",
+                                        "lineNameTxt": "/IRS8582/ParentWrkshtAllowanceGrp/WrkshtAllowanceGrp/F8582WrkshtLossesAmt",
+                                        "sequenceNum": "1",
+                                        "perReturnValueTxt": "4100",
+                                        "taxCalculatorValueTxt": "",
+                                        "varianceValueTxt": ""
+                                    },
+                                    {
+                                        "lineItemReferenceKeyId": "",
+                                        "lineNameTxt": "/IRS8582/ParentWrkshtAllowanceGrp/WrkshtAllowanceGrp/LossesPct",
+                                        "sequenceNum": "1",
+                                        "perReturnValueTxt": "0.07441",
+                                        "taxCalculatorValueTxt": "",
+                                        "varianceValueTxt": ""
+                                    },
+                                    {
+                                        "lineItemReferenceKeyId": "",
+                                        "lineNameTxt": "/IRS8582/ParentWrkshtAllowanceGrp/WrkshtAllowanceGrp/SpecialAllowanceAmt",
+                                        "sequenceNum": "1",
+                                        "perReturnValueTxt": "1860",
+                                        "taxCalculatorValueTxt": "",
+                                        "varianceValueTxt": ""
+                                    },
+                                    {
+                                        "lineItemReferenceKeyId": "",
+                                        "lineNameTxt": "/IRS8582/ParentWrkshtAllowanceGrp/WrkshtAllowanceGrp/NetSpecialAllowanceAmt",
+                                        "sequenceNum": "1",
+                                        "perReturnValueTxt": "2240",
+                                        "taxCalculatorValueTxt": "",
+                                        "varianceValueTxt": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS8582/ParentWrkshtAllowanceGrp/WrkshtAllowanceGrp",
+                                "sequenceNum": "1",
+                                "lineItems": [
+                                    {
+                                        "lineItemReferenceKeyId": "",
+                                        "lineNameTxt": "/IRS8582/ParentWrkshtAllowanceGrp/WrkshtAllowanceGrp/SpecialAllowanceActivityNm",
+                                        "sequenceNum": "1",
+                                        "perReturnValueTxt": "E Part I - B",
+                                        "taxCalculatorValueTxt": "",
+                                        "varianceValueTxt": ""
+                                    },
+                                    {
+                                        "lineItemReferenceKeyId": "",
+                                        "lineNameTxt": "/IRS8582/ParentWrkshtAllowanceGrp/WrkshtAllowanceGrp/ReportingFormOrScheduleNm",
+                                        "sequenceNum": "1",
+                                        "perReturnValueTxt": "Sch E, 25",
+                                        "taxCalculatorValueTxt": "",
+                                        "varianceValueTxt": ""
+                                    },
+                                    {
+                                        "lineItemReferenceKeyId": "",
+                                        "lineNameTxt": "/IRS8582/ParentWrkshtAllowanceGrp/WrkshtAllowanceGrp/F8582WrkshtLossesAmt",
+                                        "sequenceNum": "1",
+                                        "perReturnValueTxt": "45000",
+                                        "taxCalculatorValueTxt": "",
+                                        "varianceValueTxt": ""
+                                    },
+                                    {
+                                        "lineItemReferenceKeyId": "",
+                                        "lineNameTxt": "/IRS8582/ParentWrkshtAllowanceGrp/WrkshtAllowanceGrp/LossesPct",
+                                        "sequenceNum": "1",
+                                        "perReturnValueTxt": "0.8167",
+                                        "taxCalculatorValueTxt": "",
+                                        "varianceValueTxt": ""
+                                    },
+                                    {
+                                        "lineItemReferenceKeyId": "",
+                                        "lineNameTxt": "/IRS8582/ParentWrkshtAllowanceGrp/WrkshtAllowanceGrp/SpecialAllowanceAmt",
+                                        "sequenceNum": "1",
+                                        "perReturnValueTxt": "20417",
+                                        "taxCalculatorValueTxt": "",
+                                        "varianceValueTxt": ""
+                                    },
+                                    {
+                                        "lineItemReferenceKeyId": "",
+                                        "lineNameTxt": "/IRS8582/ParentWrkshtAllowanceGrp/WrkshtAllowanceGrp/NetSpecialAllowanceAmt",
+                                        "sequenceNum": "1",
+                                        "perReturnValueTxt": "24583",
+                                        "taxCalculatorValueTxt": "",
+                                        "varianceValueTxt": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS8582/ParentWrkshtAllowanceGrp/WrkshtAllowanceGrp",
+                                "sequenceNum": "1",
+                                "lineItems": [
+                                    {
+                                        "lineItemReferenceKeyId": "",
+                                        "lineNameTxt": "/IRS8582/ParentWrkshtAllowanceGrp/WrkshtAllowanceGrp/SpecialAllowanceActivityNm",
+                                        "sequenceNum": "1",
+                                        "perReturnValueTxt": "E Part II - Passive/Activ",
+                                        "taxCalculatorValueTxt": "",
+                                        "varianceValueTxt": ""
+                                    },
+                                    {
+                                        "lineItemReferenceKeyId": "",
+                                        "lineNameTxt": "/IRS8582/ParentWrkshtAllowanceGrp/WrkshtAllowanceGrp/ReportingFormOrScheduleNm",
+                                        "sequenceNum": "1",
+                                        "perReturnValueTxt": "Sch E, 28",
+                                        "taxCalculatorValueTxt": "",
+                                        "varianceValueTxt": ""
+                                    },
+                                    {
+                                        "lineItemReferenceKeyId": "",
+                                        "lineNameTxt": "/IRS8582/ParentWrkshtAllowanceGrp/WrkshtAllowanceGrp/F8582WrkshtLossesAmt",
+                                        "sequenceNum": "1",
+                                        "perReturnValueTxt": "6000",
+                                        "taxCalculatorValueTxt": "",
+                                        "varianceValueTxt": ""
+                                    },
+                                    {
+                                        "lineItemReferenceKeyId": "",
+                                        "lineNameTxt": "/IRS8582/ParentWrkshtAllowanceGrp/WrkshtAllowanceGrp/LossesPct",
+                                        "sequenceNum": "1",
+                                        "perReturnValueTxt": "0.10889",
+                                        "taxCalculatorValueTxt": "",
+                                        "varianceValueTxt": ""
+                                    },
+                                    {
+                                        "lineItemReferenceKeyId": "",
+                                        "lineNameTxt": "/IRS8582/ParentWrkshtAllowanceGrp/WrkshtAllowanceGrp/SpecialAllowanceAmt",
+                                        "sequenceNum": "1",
+                                        "perReturnValueTxt": "2722",
+                                        "taxCalculatorValueTxt": "",
+                                        "varianceValueTxt": ""
+                                    },
+                                    {
+                                        "lineItemReferenceKeyId": "",
+                                        "lineNameTxt": "/IRS8582/ParentWrkshtAllowanceGrp/WrkshtAllowanceGrp/NetSpecialAllowanceAmt",
+                                        "sequenceNum": "1",
+                                        "perReturnValueTxt": "3278",
+                                        "taxCalculatorValueTxt": "",
+                                        "varianceValueTxt": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS8582/ParentWrkshtAllowanceGrp/TotalLossAmt",
+                                "sequenceNum": "1",
+                                "perReturnValueTxt": "55100",
+                                "taxCalculatorValueTxt": "",
+                                "varianceValueTxt": ""
+                            },
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS8582/ParentWrkshtAllowanceGrp/TotalSpecialAllowanceAmt",
+                                "sequenceNum": "1",
+                                "perReturnValueTxt": "24999",
+                                "taxCalculatorValueTxt": "",
+                                "varianceValueTxt": ""
+                            },
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS8582/ParentWrkshtAllowanceGrp/TotalNetSpecialAllowanceAmt",
+                                "sequenceNum": "1",
+                                "perReturnValueTxt": "30101",
+                                "taxCalculatorValueTxt": "",
+                                "varianceValueTxt": ""
+                            }
+                        ]
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS8582/ParentWrkshtLossGrp",
+                        "sequenceNum": "1",
+                        "lineItems": [
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS8582/ParentWrkshtLossGrp/WrkshtLossGrp",
+                                "sequenceNum": "1",
+                                "lineItems": [
+                                    {
+                                        "lineItemReferenceKeyId": "",
+                                        "lineNameTxt": "/IRS8582/ParentWrkshtLossGrp/WrkshtLossGrp/UnallowedLossActivityNm",
+                                        "sequenceNum": "1",
+                                        "perReturnValueTxt": "E Part I - A",
+                                        "taxCalculatorValueTxt": "",
+                                        "varianceValueTxt": ""
+                                    },
+                                    {
+                                        "lineItemReferenceKeyId": "",
+                                        "lineNameTxt": "/IRS8582/ParentWrkshtLossGrp/WrkshtLossGrp/ReportingFormOrScheduleNm",
+                                        "sequenceNum": "1",
+                                        "perReturnValueTxt": "Sch E, 25",
+                                        "taxCalculatorValueTxt": "",
+                                        "varianceValueTxt": ""
+                                    },
+                                    {
+                                        "lineItemReferenceKeyId": "",
+                                        "lineNameTxt": "/IRS8582/ParentWrkshtLossGrp/WrkshtLossGrp/F8582WrkshtLossesAmt",
+                                        "sequenceNum": "1",
+                                        "perReturnValueTxt": "2240",
+                                        "taxCalculatorValueTxt": "",
+                                        "varianceValueTxt": ""
+                                    },
+                                    {
+                                        "lineItemReferenceKeyId": "",
+                                        "lineNameTxt": "/IRS8582/ParentWrkshtLossGrp/WrkshtLossGrp/LossesPct",
+                                        "sequenceNum": "1",
+                                        "perReturnValueTxt": "0.04",
+                                        "taxCalculatorValueTxt": "",
+                                        "varianceValueTxt": ""
+                                    },
+                                    {
+                                        "lineItemReferenceKeyId": "",
+                                        "lineNameTxt": "/IRS8582/ParentWrkshtLossGrp/WrkshtLossGrp/PriorYearUnallowedLossesAmt",
+                                        "sequenceNum": "1",
+                                        "perReturnValueTxt": "1320",
+                                        "taxCalculatorValueTxt": "",
+                                        "varianceValueTxt": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS8582/ParentWrkshtLossGrp/WrkshtLossGrp",
+                                "sequenceNum": "1",
+                                "lineItems": [
+                                    {
+                                        "lineItemReferenceKeyId": "",
+                                        "lineNameTxt": "/IRS8582/ParentWrkshtLossGrp/WrkshtLossGrp/UnallowedLossActivityNm",
+                                        "sequenceNum": "1",
+                                        "perReturnValueTxt": "E Part I - B",
+                                        "taxCalculatorValueTxt": "",
+                                        "varianceValueTxt": ""
+                                    },
+                                    {
+                                        "lineItemReferenceKeyId": "",
+                                        "lineNameTxt": "/IRS8582/ParentWrkshtLossGrp/WrkshtLossGrp/ReportingFormOrScheduleNm",
+                                        "sequenceNum": "1",
+                                        "perReturnValueTxt": "Sch E, 25",
+                                        "taxCalculatorValueTxt": "",
+                                        "varianceValueTxt": ""
+                                    },
+                                    {
+                                        "lineItemReferenceKeyId": "",
+                                        "lineNameTxt": "/IRS8582/ParentWrkshtLossGrp/WrkshtLossGrp/F8582WrkshtLossesAmt",
+                                        "sequenceNum": "1",
+                                        "perReturnValueTxt": "24583",
+                                        "taxCalculatorValueTxt": "",
+                                        "varianceValueTxt": ""
+                                    },
+                                    {
+                                        "lineItemReferenceKeyId": "",
+                                        "lineNameTxt": "/IRS8582/ParentWrkshtLossGrp/WrkshtLossGrp/LossesPct",
+                                        "sequenceNum": "1",
+                                        "perReturnValueTxt": "0.43897",
+                                        "taxCalculatorValueTxt": "",
+                                        "varianceValueTxt": ""
+                                    },
+                                    {
+                                        "lineItemReferenceKeyId": "",
+                                        "lineNameTxt": "/IRS8582/ParentWrkshtLossGrp/WrkshtLossGrp/PriorYearUnallowedLossesAmt",
+                                        "sequenceNum": "1",
+                                        "perReturnValueTxt": "14486",
+                                        "taxCalculatorValueTxt": "",
+                                        "varianceValueTxt": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS8582/ParentWrkshtLossGrp/WrkshtLossGrp",
+                                "sequenceNum": "1",
+                                "lineItems": [
+                                    {
+                                        "lineItemReferenceKeyId": "",
+                                        "lineNameTxt": "/IRS8582/ParentWrkshtLossGrp/WrkshtLossGrp/UnallowedLossActivityNm",
+                                        "sequenceNum": "1",
+                                        "perReturnValueTxt": "E Part II - Passive/",
+                                        "taxCalculatorValueTxt": "",
+                                        "varianceValueTxt": ""
+                                    },
+                                    {
+                                        "lineItemReferenceKeyId": "",
+                                        "lineNameTxt": "/IRS8582/ParentWrkshtLossGrp/WrkshtLossGrp/ReportingFormOrScheduleNm",
+                                        "sequenceNum": "1",
+                                        "perReturnValueTxt": "Sch E, 28",
+                                        "taxCalculatorValueTxt": "",
+                                        "varianceValueTxt": ""
+                                    },
+                                    {
+                                        "lineItemReferenceKeyId": "",
+                                        "lineNameTxt": "/IRS8582/ParentWrkshtLossGrp/WrkshtLossGrp/F8582WrkshtLossesAmt",
+                                        "sequenceNum": "1",
+                                        "perReturnValueTxt": "3278",
+                                        "taxCalculatorValueTxt": "",
+                                        "varianceValueTxt": ""
+                                    },
+                                    {
+                                        "lineItemReferenceKeyId": "",
+                                        "lineNameTxt": "/IRS8582/ParentWrkshtLossGrp/WrkshtLossGrp/LossesPct",
+                                        "sequenceNum": "1",
+                                        "perReturnValueTxt": "0.05853",
+                                        "taxCalculatorValueTxt": "",
+                                        "varianceValueTxt": ""
+                                    },
+                                    {
+                                        "lineItemReferenceKeyId": "",
+                                        "lineNameTxt": "/IRS8582/ParentWrkshtLossGrp/WrkshtLossGrp/PriorYearUnallowedLossesAmt",
+                                        "sequenceNum": "1",
+                                        "perReturnValueTxt": "1932",
+                                        "taxCalculatorValueTxt": "",
+                                        "varianceValueTxt": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS8582/ParentWrkshtLossGrp/WrkshtLossGrp",
+                                "sequenceNum": "1",
+                                "lineItems": [
+                                    {
+                                        "lineItemReferenceKeyId": "",
+                                        "lineNameTxt": "/IRS8582/ParentWrkshtLossGrp/WrkshtLossGrp/UnallowedLossActivityNm",
+                                        "sequenceNum": "1",
+                                        "perReturnValueTxt": "E Part II - Passive/",
+                                        "taxCalculatorValueTxt": "",
+                                        "varianceValueTxt": ""
+                                    },
+                                    {
+                                        "lineItemReferenceKeyId": "",
+                                        "lineNameTxt": "/IRS8582/ParentWrkshtLossGrp/WrkshtLossGrp/ReportingFormOrScheduleNm",
+                                        "sequenceNum": "1",
+                                        "perReturnValueTxt": "Sch E, 28",
+                                        "taxCalculatorValueTxt": "",
+                                        "varianceValueTxt": ""
+                                    },
+                                    {
+                                        "lineItemReferenceKeyId": "",
+                                        "lineNameTxt": "/IRS8582/ParentWrkshtLossGrp/WrkshtLossGrp/F8582WrkshtLossesAmt",
+                                        "sequenceNum": "1",
+                                        "perReturnValueTxt": "17000",
+                                        "taxCalculatorValueTxt": "",
+                                        "varianceValueTxt": ""
+                                    },
+                                    {
+                                        "lineItemReferenceKeyId": "",
+                                        "lineNameTxt": "/IRS8582/ParentWrkshtLossGrp/WrkshtLossGrp/LossesPct",
+                                        "sequenceNum": "1",
+                                        "perReturnValueTxt": "0.30357",
+                                        "taxCalculatorValueTxt": "",
+                                        "varianceValueTxt": ""
+                                    },
+                                    {
+                                        "lineItemReferenceKeyId": "",
+                                        "lineNameTxt": "/IRS8582/ParentWrkshtLossGrp/WrkshtLossGrp/PriorYearUnallowedLossesAmt",
+                                        "sequenceNum": "1",
+                                        "perReturnValueTxt": "10018",
+                                        "taxCalculatorValueTxt": "",
+                                        "varianceValueTxt": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS8582/ParentWrkshtLossGrp/WrkshtLossGrp",
+                                "sequenceNum": "1",
+                                "lineItems": [
+                                    {
+                                        "lineItemReferenceKeyId": "",
+                                        "lineNameTxt": "/IRS8582/ParentWrkshtLossGrp/WrkshtLossGrp/UnallowedLossActivityNm",
+                                        "sequenceNum": "1",
+                                        "perReturnValueTxt": "E Part II - Passive/",
+                                        "taxCalculatorValueTxt": "",
+                                        "varianceValueTxt": ""
+                                    },
+                                    {
+                                        "lineItemReferenceKeyId": "",
+                                        "lineNameTxt": "/IRS8582/ParentWrkshtLossGrp/WrkshtLossGrp/ReportingFormOrScheduleNm",
+                                        "sequenceNum": "1",
+                                        "perReturnValueTxt": "Sch E, 28",
+                                        "taxCalculatorValueTxt": "",
+                                        "varianceValueTxt": ""
+                                    },
+                                    {
+                                        "lineItemReferenceKeyId": "",
+                                        "lineNameTxt": "/IRS8582/ParentWrkshtLossGrp/WrkshtLossGrp/F8582WrkshtLossesAmt",
+                                        "sequenceNum": "1",
+                                        "perReturnValueTxt": "8900",
+                                        "taxCalculatorValueTxt": "",
+                                        "varianceValueTxt": ""
+                                    },
+                                    {
+                                        "lineItemReferenceKeyId": "",
+                                        "lineNameTxt": "/IRS8582/ParentWrkshtLossGrp/WrkshtLossGrp/LossesPct",
+                                        "sequenceNum": "1",
+                                        "perReturnValueTxt": "0.15893",
+                                        "taxCalculatorValueTxt": "",
+                                        "varianceValueTxt": ""
+                                    },
+                                    {
+                                        "lineItemReferenceKeyId": "",
+                                        "lineNameTxt": "/IRS8582/ParentWrkshtLossGrp/WrkshtLossGrp/PriorYearUnallowedLossesAmt",
+                                        "sequenceNum": "1",
+                                        "perReturnValueTxt": "5245",
+                                        "taxCalculatorValueTxt": "",
+                                        "varianceValueTxt": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS8582/ParentWrkshtLossGrp/TotalAllocationLossAmt",
+                                "sequenceNum": "1",
+                                "perReturnValueTxt": "56001",
+                                "taxCalculatorValueTxt": "",
+                                "varianceValueTxt": ""
+                            },
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS8582/ParentWrkshtLossGrp/TotalLossAmt",
+                                "sequenceNum": "1",
+                                "perReturnValueTxt": "33001",
+                                "taxCalculatorValueTxt": "",
+                                "varianceValueTxt": ""
+                            }
+                        ]
+                    },
+                    {
+                        "lineItemReferenceKeyId": "",
+                        "lineNameTxt": "/IRS8582/ParentWrkshtListActivityGrp",
+                        "sequenceNum": "1",
+                        "lineItems": [
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS8582/ParentWrkshtListActivityGrp/WrkshtListActivityGrp",
+                                "sequenceNum": "1",
+                                "lineItems": [
+                                    {
+                                        "lineItemReferenceKeyId": "",
+                                        "lineNameTxt": "/IRS8582/ParentWrkshtListActivityGrp/WrkshtListActivityGrp/AllowedLossActivityNm",
+                                        "sequenceNum": "1",
+                                        "perReturnValueTxt": "E Part I - A",
+                                        "taxCalculatorValueTxt": "",
+                                        "varianceValueTxt": ""
+                                    },
+                                    {
+                                        "lineItemReferenceKeyId": "",
+                                        "lineNameTxt": "/IRS8582/ParentWrkshtListActivityGrp/WrkshtListActivityGrp/ReportingFormOrScheduleNm",
+                                        "sequenceNum": "1",
+                                        "perReturnValueTxt": "Sch E, 25",
+                                        "taxCalculatorValueTxt": "",
+                                        "varianceValueTxt": ""
+                                    },
+                                    {
+                                        "lineItemReferenceKeyId": "",
+                                        "lineNameTxt": "/IRS8582/ParentWrkshtListActivityGrp/WrkshtListActivityGrp/F8582WrkshtLossesAmt",
+                                        "sequenceNum": "1",
+                                        "perReturnValueTxt": "4100",
+                                        "taxCalculatorValueTxt": "",
+                                        "varianceValueTxt": ""
+                                    },
+                                    {
+                                        "lineItemReferenceKeyId": "",
+                                        "lineNameTxt": "/IRS8582/ParentWrkshtListActivityGrp/WrkshtListActivityGrp/PriorYearUnallowedLossesAmt",
+                                        "sequenceNum": "1",
+                                        "perReturnValueTxt": "1320",
+                                        "taxCalculatorValueTxt": "",
+                                        "varianceValueTxt": ""
+                                    },
+                                    {
+                                        "lineItemReferenceKeyId": "",
+                                        "lineNameTxt": "/IRS8582/ParentWrkshtListActivityGrp/WrkshtListActivityGrp/F8582WrkshtAllowedLossesAmt",
+                                        "sequenceNum": "1",
+                                        "perReturnValueTxt": "2780",
+                                        "taxCalculatorValueTxt": "",
+                                        "varianceValueTxt": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS8582/ParentWrkshtListActivityGrp/WrkshtListActivityGrp",
+                                "sequenceNum": "1",
+                                "lineItems": [
+                                    {
+                                        "lineItemReferenceKeyId": "",
+                                        "lineNameTxt": "/IRS8582/ParentWrkshtListActivityGrp/WrkshtListActivityGrp/AllowedLossActivityNm",
+                                        "sequenceNum": "1",
+                                        "perReturnValueTxt": "E Part I - B",
+                                        "taxCalculatorValueTxt": "",
+                                        "varianceValueTxt": ""
+                                    },
+                                    {
+                                        "lineItemReferenceKeyId": "",
+                                        "lineNameTxt": "/IRS8582/ParentWrkshtListActivityGrp/WrkshtListActivityGrp/ReportingFormOrScheduleNm",
+                                        "sequenceNum": "1",
+                                        "perReturnValueTxt": "Sch E, 25",
+                                        "taxCalculatorValueTxt": "",
+                                        "varianceValueTxt": ""
+                                    },
+                                    {
+                                        "lineItemReferenceKeyId": "",
+                                        "lineNameTxt": "/IRS8582/ParentWrkshtListActivityGrp/WrkshtListActivityGrp/F8582WrkshtLossesAmt",
+                                        "sequenceNum": "1",
+                                        "perReturnValueTxt": "45000",
+                                        "taxCalculatorValueTxt": "",
+                                        "varianceValueTxt": ""
+                                    },
+                                    {
+                                        "lineItemReferenceKeyId": "",
+                                        "lineNameTxt": "/IRS8582/ParentWrkshtListActivityGrp/WrkshtListActivityGrp/PriorYearUnallowedLossesAmt",
+                                        "sequenceNum": "1",
+                                        "perReturnValueTxt": "14486",
+                                        "taxCalculatorValueTxt": "",
+                                        "varianceValueTxt": ""
+                                    },
+                                    {
+                                        "lineItemReferenceKeyId": "",
+                                        "lineNameTxt": "/IRS8582/ParentWrkshtListActivityGrp/WrkshtListActivityGrp/F8582WrkshtAllowedLossesAmt",
+                                        "sequenceNum": "1",
+                                        "perReturnValueTxt": "30514",
+                                        "taxCalculatorValueTxt": "",
+                                        "varianceValueTxt": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS8582/ParentWrkshtListActivityGrp/WrkshtListActivityGrp",
+                                "sequenceNum": "1",
+                                "lineItems": [
+                                    {
+                                        "lineItemReferenceKeyId": "",
+                                        "lineNameTxt": "/IRS8582/ParentWrkshtListActivityGrp/WrkshtListActivityGrp/AllowedLossActivityNm",
+                                        "sequenceNum": "1",
+                                        "perReturnValueTxt": "E Part II - Passive/",
+                                        "taxCalculatorValueTxt": "",
+                                        "varianceValueTxt": ""
+                                    },
+                                    {
+                                        "lineItemReferenceKeyId": "",
+                                        "lineNameTxt": "/IRS8582/ParentWrkshtListActivityGrp/WrkshtListActivityGrp/ReportingFormOrScheduleNm",
+                                        "sequenceNum": "1",
+                                        "perReturnValueTxt": "Sch E, 28",
+                                        "taxCalculatorValueTxt": "",
+                                        "varianceValueTxt": ""
+                                    },
+                                    {
+                                        "lineItemReferenceKeyId": "",
+                                        "lineNameTxt": "/IRS8582/ParentWrkshtListActivityGrp/WrkshtListActivityGrp/F8582WrkshtLossesAmt",
+                                        "sequenceNum": "1",
+                                        "perReturnValueTxt": "6000",
+                                        "taxCalculatorValueTxt": "",
+                                        "varianceValueTxt": ""
+                                    },
+                                    {
+                                        "lineItemReferenceKeyId": "",
+                                        "lineNameTxt": "/IRS8582/ParentWrkshtListActivityGrp/WrkshtListActivityGrp/PriorYearUnallowedLossesAmt",
+                                        "sequenceNum": "1",
+                                        "perReturnValueTxt": "1932",
+                                        "taxCalculatorValueTxt": "",
+                                        "varianceValueTxt": ""
+                                    },
+                                    {
+                                        "lineItemReferenceKeyId": "",
+                                        "lineNameTxt": "/IRS8582/ParentWrkshtListActivityGrp/WrkshtListActivityGrp/F8582WrkshtAllowedLossesAmt",
+                                        "sequenceNum": "1",
+                                        "perReturnValueTxt": "4068",
+                                        "taxCalculatorValueTxt": "",
+                                        "varianceValueTxt": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS8582/ParentWrkshtListActivityGrp/WrkshtListActivityGrp",
+                                "sequenceNum": "1",
+                                "lineItems": [
+                                    {
+                                        "lineItemReferenceKeyId": "",
+                                        "lineNameTxt": "/IRS8582/ParentWrkshtListActivityGrp/WrkshtListActivityGrp/AllowedLossActivityNm",
+                                        "sequenceNum": "1",
+                                        "perReturnValueTxt": "E Part II - Passive/",
+                                        "taxCalculatorValueTxt": "",
+                                        "varianceValueTxt": ""
+                                    },
+                                    {
+                                        "lineItemReferenceKeyId": "",
+                                        "lineNameTxt": "/IRS8582/ParentWrkshtListActivityGrp/WrkshtListActivityGrp/ReportingFormOrScheduleNm",
+                                        "sequenceNum": "1",
+                                        "perReturnValueTxt": "Sch E, 28",
+                                        "taxCalculatorValueTxt": "",
+                                        "varianceValueTxt": ""
+                                    },
+                                    {
+                                        "lineItemReferenceKeyId": "",
+                                        "lineNameTxt": "/IRS8582/ParentWrkshtListActivityGrp/WrkshtListActivityGrp/F8582WrkshtLossesAmt",
+                                        "sequenceNum": "1",
+                                        "perReturnValueTxt": "17000",
+                                        "taxCalculatorValueTxt": "",
+                                        "varianceValueTxt": ""
+                                    },
+                                    {
+                                        "lineItemReferenceKeyId": "",
+                                        "lineNameTxt": "/IRS8582/ParentWrkshtListActivityGrp/WrkshtListActivityGrp/PriorYearUnallowedLossesAmt",
+                                        "sequenceNum": "1",
+                                        "perReturnValueTxt": "10018",
+                                        "taxCalculatorValueTxt": "",
+                                        "varianceValueTxt": ""
+                                    },
+                                    {
+                                        "lineItemReferenceKeyId": "",
+                                        "lineNameTxt": "/IRS8582/ParentWrkshtListActivityGrp/WrkshtListActivityGrp/F8582WrkshtAllowedLossesAmt",
+                                        "sequenceNum": "1",
+                                        "perReturnValueTxt": "6982",
+                                        "taxCalculatorValueTxt": "",
+                                        "varianceValueTxt": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS8582/ParentWrkshtListActivityGrp/WrkshtListActivityGrp",
+                                "sequenceNum": "1",
+                                "lineItems": [
+                                    {
+                                        "lineItemReferenceKeyId": "",
+                                        "lineNameTxt": "/IRS8582/ParentWrkshtListActivityGrp/WrkshtListActivityGrp/AllowedLossActivityNm",
+                                        "sequenceNum": "1",
+                                        "perReturnValueTxt": "E Part II - Passive/",
+                                        "taxCalculatorValueTxt": "",
+                                        "varianceValueTxt": ""
+                                    },
+                                    {
+                                        "lineItemReferenceKeyId": "",
+                                        "lineNameTxt": "/IRS8582/ParentWrkshtListActivityGrp/WrkshtListActivityGrp/ReportingFormOrScheduleNm",
+                                        "sequenceNum": "1",
+                                        "perReturnValueTxt": "Sch E, 28",
+                                        "taxCalculatorValueTxt": "",
+                                        "varianceValueTxt": ""
+                                    },
+                                    {
+                                        "lineItemReferenceKeyId": "",
+                                        "lineNameTxt": "/IRS8582/ParentWrkshtListActivityGrp/WrkshtListActivityGrp/F8582WrkshtLossesAmt",
+                                        "sequenceNum": "1",
+                                        "perReturnValueTxt": "8900",
+                                        "taxCalculatorValueTxt": "",
+                                        "varianceValueTxt": ""
+                                    },
+                                    {
+                                        "lineItemReferenceKeyId": "",
+                                        "lineNameTxt": "/IRS8582/ParentWrkshtListActivityGrp/WrkshtListActivityGrp/PriorYearUnallowedLossesAmt",
+                                        "sequenceNum": "1",
+                                        "perReturnValueTxt": "5245",
+                                        "taxCalculatorValueTxt": "",
+                                        "varianceValueTxt": ""
+                                    },
+                                    {
+                                        "lineItemReferenceKeyId": "",
+                                        "lineNameTxt": "/IRS8582/ParentWrkshtListActivityGrp/WrkshtListActivityGrp/F8582WrkshtAllowedLossesAmt",
+                                        "sequenceNum": "1",
+                                        "perReturnValueTxt": "3655",
+                                        "taxCalculatorValueTxt": "",
+                                        "varianceValueTxt": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS8582/ParentWrkshtListActivityGrp/TotalLossAmt",
+                                "sequenceNum": "1",
+                                "perReturnValueTxt": "81000",
+                                "taxCalculatorValueTxt": "",
+                                "varianceValueTxt": ""
+                            },
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS8582/ParentWrkshtListActivityGrp/TotalUnallowedLossAmt",
+                                "sequenceNum": "1",
+                                "perReturnValueTxt": "33001",
+                                "taxCalculatorValueTxt": "",
+                                "varianceValueTxt": ""
+                            },
+                            {
+                                "lineItemReferenceKeyId": "",
+                                "lineNameTxt": "/IRS8582/ParentWrkshtListActivityGrp/TotalAllowedLossAmt",
+                                "sequenceNum": "1",
+                                "perReturnValueTxt": "47999",
+                                "taxCalculatorValueTxt": "",
+                                "varianceValueTxt": ""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}
