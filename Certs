@@ -1,0 +1,36 @@
+private static final OkHttpClient client = createUnsafeOkHttpClient();
+
+private static OkHttpClient createUnsafeOkHttpClient() {
+    try {
+        // Create a trust manager that does not validate certificate chains
+        TrustManager[] trustAllCerts = new TrustManager[]{
+            new X509TrustManager() {
+                @Override
+                public void checkClientTrusted(java.security.cert.X509Certificate[] chain, String authType) {}
+                @Override
+                public void checkServerTrusted(java.security.cert.X509Certificate[] chain, String authType) {}
+                @Override
+                public java.security.cert.X509Certificate[] getAcceptedIssuers() {
+                    return new java.security.cert.X509Certificate[0];
+                }
+            }
+        };
+
+        // Install the all-trusting trust manager
+        final SSLContext sslContext = SSLContext.getInstance("SSL");
+        sslContext.init(null, trustAllCerts, new java.security.SecureRandom());
+        final SSLSocketFactory sslSocketFactory = sslContext.getSocketFactory();
+
+        // Build the OkHttpClient with unsafe settings
+        return new OkHttpClient.Builder()
+                .sslSocketFactory(sslSocketFactory, (X509TrustManager) trustAllCerts[0])
+                .hostnameVerifier((hostname, session) -> true)
+                .connectTimeout(CONNECT_TIMEOUT_SECONDS, TimeUnit.SECONDS)
+                .readTimeout(READ_TIMEOUT_MINUTES, TimeUnit.MINUTES)
+                .writeTimeout(WRITE_TIMEOUT_SECONDS, TimeUnit.SECONDS)
+                .dispatcher(new Dispatcher(Executors.newFixedThreadPool(MAX_CONCURRENT_REQUESTS)))
+                .build();
+    } catch (Exception e) {
+        throw new RuntimeException("Failed to create a secure OkHttpClient", e);
+    }
+}
