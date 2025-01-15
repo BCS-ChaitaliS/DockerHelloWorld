@@ -6,6 +6,28 @@ testrunner.bat -s"TestSuiteName" -c"TestCaseName" -PpropertyName=propertyValue -
 
 testrunner.bat -a -f"C:\SoapUI\Responses" -s"MyTestSuite" -c"MyTestCase" C:\Path\To\MyProject.xml
 
+Running SoapUI TestRunner for [REST Project 1]
+directory: C:\Program Files\SmartBear\SoapUI-5.7.2\bin\.
+command: cmd.exe /C testrunner.bat -s"https://c-ecm-dev.apps.ecpdevtest.tcc.irs.gov TestSuite" -c"VarianceAnalysis TestCase" C:\Users\w18rb\Documents\REST-Project-1-soapui-project.xml
+OpenJDK 64-Bit Server VM warning: Option --illegal-access is deprecated and will be removed in a future release.
+SoapUI 5.7.2 TestCase Runner
+Configuring log4j from [C:\Program Files\SmartBear\SoapUI-5.7.2\bin\soapui-log4j.xml]
+15:16:31,245 INFO  [DefaultSoapUICore] initialized soapui-settings from [C:\Users\w18rb\soapui-settings.xml]
+15:16:31,360 INFO  [HttpClientSupport] Initializing KeyStore
+15:16:33,617 INFO  [PluginManager] 0 plugins loaded in 1 ms
+15:16:33,617 INFO  [DefaultSoapUICore] All plugins loaded
+15:16:34,243 INFO  [WsdlProject] Loaded project from [file:/C:/Users/w18rb/Documents/REST-Project-1-soapui-project.xml]
+15:16:34,249 INFO  [SoapUITestCaseRunner] Running SoapUI tests in project [REST Project 1]
+15:16:34,250 ERROR [SoapUITestCaseRunner] java.lang.Exception: TestSuite with name [https://c-ecm-dev.apps.ecpdevtest.tcc.irs.gov TestSuite] is missing in Project [REST Project 1]
+15:16:34,250 ERROR [SoapUI] An error occurred [TestSuite with name [https://c-ecm-dev.apps.ecpdevtest.tcc.irs.gov TestSuite] is missing in Project [REST Project 1]], see error log for details
+java.lang.Exception: TestSuite with name [https://c-ecm-dev.apps.ecpdevtest.tcc.irs.gov TestSuite] is missing in Project [REST Project 1]
+	at com.eviware.soapui.tools.SoapUITestCaseRunner.runRunner(SoapUITestCaseRunner.java:372)
+	at com.eviware.soapui.tools.AbstractSoapUIRunner.run(AbstractSoapUIRunner.java:228)
+	at com.eviware.soapui.tools.AbstractSoapUIRunner.run(AbstractSoapUIRunner.java:148)
+	at com.eviware.soapui.tools.AbstractSoapUIRunner.runFromCommandLine(AbstractSoapUIRunner.java:116)
+	at com.eviware.soapui.tools.SoapUITestCaseRunner.main(SoapUITestCaseRunner.java:122)
+
+
 
 
 # DockerHelloWorld
