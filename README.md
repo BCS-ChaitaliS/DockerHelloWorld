@@ -3,6 +3,8 @@ https://basecampcs.sharepoint.com/sites/InternalRevenueServiceIRS-JETCS/Shared%2
 https://irsgov-my.sharepoint.com/personal/pc1rb_ds_irsnet_gov/_layouts/15/onedrive.aspx?e=5%3Ac7b4d0d9d0384de7b835b61efc1a267b&sharingv2=true&fromShare=true&CID=19fee150%2D9458%2D4331%2Db436%2Dbcb06ab0aadb&id=%2Fpersonal%2Fpc1rb%5Fds%5Firsnet%5Fgov%2FDocuments%2FShare&FolderCTID=0x012000AF8709792001EE4C98BE96BA0F17595B&view=0
 
 testrunner.bat -s"TestSuiteName" -c"TestCaseName" -PpropertyName=propertyValue -r -j -f"outputFolderPath" projectFilePath
+testrunner.bat -a -f"C:\SoapUI\Responses" -s"MyTestSuite" -c"MyTestCase" C:\Path\To\MyProject.xml
+
 
 
 # DockerHelloWorld
