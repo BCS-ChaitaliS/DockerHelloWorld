@@ -1,0 +1,503 @@
+2025-01-15 10:29:37.648 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - org.springframework.boot.autoconfigure.jmx.JmxAutoConfiguration
+2025-01-15 10:29:37.648 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - mbeanExporter
+2025-01-15 10:29:37.649 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - objectNamingStrategy
+2025-01-15 10:29:37.650 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - mbeanServer
+2025-01-15 10:29:37.650 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - spring.jmx-org.springframework.boot.autoconfigure.jmx.JmxProperties
+2025-01-15 10:29:37.650 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - org.springframework.boot.actuate.autoconfigure.endpoint.jmx.JmxEndpointAutoConfiguration
+2025-01-15 10:29:37.650 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - jmxAnnotationEndpointDiscoverer
+2025-01-15 10:29:37.651 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - endpointObjectNameFactory
+2025-01-15 10:29:37.651 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - jmxMBeanExporter
+2025-01-15 10:29:37.651 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - jmxIncludeExcludePropertyEndpointFilter
+2025-01-15 10:29:37.651 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - eagerlyInitializeJmxEndpointExporter
+2025-01-15 10:29:37.651 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - management.endpoints.jmx-org.springframework.boot.actuate.autoconfigure.endpoint.jmx.JmxEndpointProperties
+2025-01-15 10:29:37.652 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - org.springframework.boot.actuate.autoconfigure.endpoint.web.WebEndpointAutoConfiguration$WebEndpointServletConfiguration
+2025-01-15 10:29:37.652 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - servletEndpointDiscoverer
+2025-01-15 10:29:37.652 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - org.springframework.boot.actuate.autoconfigure.endpoint.web.WebEndpointAutoConfiguration
+2025-01-15 10:29:37.652 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - webEndpointPathMapper
+2025-01-15 10:29:37.653 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - endpointMediaTypes
+2025-01-15 10:29:37.653 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - webEndpointDiscoverer
+2025-01-15 10:29:37.653 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - controllerEndpointDiscoverer
+2025-01-15 10:29:37.653 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - pathMappedEndpoints
+2025-01-15 10:29:37.654 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - webExposeExcludePropertyEndpointFilter
+2025-01-15 10:29:37.654 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - controllerExposeExcludePropertyEndpointFilter
+2025-01-15 10:29:37.654 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - management.endpoints.web-org.springframework.boot.actuate.autoconfigure.endpoint.web.WebEndpointProperties
+2025-01-15 10:29:37.654 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - org.springframework.cloud.autoconfigure.LifecycleMvcEndpointAutoConfiguration
+2025-01-15 10:29:37.655 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - environmentManager
+2025-01-15 10:29:37.655 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - org.springframework.boot.actuate.autoconfigure.env.EnvironmentEndpointAutoConfiguration
+2025-01-15 10:29:37.655 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - environmentEndpoint
+2025-01-15 10:29:37.655 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - management.endpoint.env-org.springframework.boot.actuate.autoconfigure.env.EnvironmentEndpointProperties
+2025-01-15 10:29:37.656 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - org.springframework.boot.actuate.autoconfigure.system.DiskSpaceHealthContributorAutoConfiguration  
+2025-01-15 10:29:37.656 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - diskSpaceHealthIndicator
+2025-01-15 10:29:37.656 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - management.health.diskspace-org.springframework.boot.actuate.autoconfigure.system.DiskSpaceHealthIndicatorProperties
+2025-01-15 10:29:37.657 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - org.springframework.boot.actuate.autoconfigure.health.HealthContributorAutoConfiguration
+2025-01-15 10:29:37.657 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - pingHealthContributor
+2025-01-15 10:29:37.657 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - org.springframework.boot.actuate.autoconfigure.logging.LogFileWebEndpointAutoConfiguration
+2025-01-15 10:29:37.657 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - management.endpoint.logfile-org.springframework.boot.actuate.autoconfigure.logging.LogFileWebEndpointProperties
+2025-01-15 10:29:37.658 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - org.springframework.boot.actuate.autoconfigure.logging.LoggersEndpointAutoConfiguration
+2025-01-15 10:29:37.658 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - loggersEndpoint
+2025-01-15 10:29:37.658 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - org.springframework.boot.actuate.autoconfigure.management.HeapDumpWebEndpointAutoConfiguration     
+2025-01-15 10:29:37.658 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - heapDumpWebEndpoint
+2025-01-15 10:29:37.659 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - org.springframework.boot.actuate.autoconfigure.management.ThreadDumpEndpointAutoConfiguration      
+2025-01-15 10:29:37.659 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - dumpEndpoint
+2025-01-15 10:29:37.659 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - org.springframework.boot.actuate.autoconfigure.metrics.CompositeMeterRegistryAutoConfiguration     
+2025-01-15 10:29:37.660 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - org.springframework.boot.actuate.autoconfigure.metrics.JvmMetricsAutoConfiguration
+2025-01-15 10:29:37.660 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - jvmGcMetrics
+2025-01-15 10:29:37.660 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - jvmHeapPressureMetrics
+2025-01-15 10:29:37.661 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - jvmMemoryMetrics
+2025-01-15 10:29:37.661 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - jvmThreadMetrics
+2025-01-15 10:29:37.662 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - classLoaderMetrics
+2025-01-15 10:29:37.663 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - jvmInfoMetrics
+2025-01-15 10:29:37.663 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - jvmCompilationMetrics
+2025-01-15 10:29:37.664 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - org.springframework.boot.actuate.autoconfigure.metrics.LogbackMetricsAutoConfiguration
+2025-01-15 10:29:37.664 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - logbackMetrics
+2025-01-15 10:29:37.664 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - org.springframework.boot.actuate.autoconfigure.metrics.MetricsEndpointAutoConfiguration
+2025-01-15 10:29:37.665 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - metricsEndpoint
+2025-01-15 10:29:37.665 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - org.springframework.boot.actuate.autoconfigure.metrics.SystemMetricsAutoConfiguration
+2025-01-15 10:29:37.666 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - uptimeMetrics
+2025-01-15 10:29:37.667 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - processorMetrics
+2025-01-15 10:29:37.669 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - fileDescriptorMetrics
+2025-01-15 10:29:37.669 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - diskSpaceMetrics
+2025-01-15 10:29:37.669 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - org.springframework.boot.actuate.autoconfigure.metrics.integration.IntegrationMetricsAutoConfiguration
+2025-01-15 10:29:37.669 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - org.springframework.boot.actuate.autoconfigure.metrics.startup.StartupTimeMetricsListenerAutoConfiguration
+2025-01-15 10:29:37.670 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - startupTimeMetrics
+2025-01-15 10:29:37.670 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - org.springframework.boot.autoconfigure.task.TaskSchedulingConfigurations$ThreadPoolTaskSchedulerBuilderConfiguration
+2025-01-15 10:29:37.670 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - threadPoolTaskSchedulerBuilder
+2025-01-15 10:29:37.670 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - org.springframework.boot.autoconfigure.task.TaskSchedulingConfigurations$TaskSchedulerBuilderConfiguration
+2025-01-15 10:29:37.671 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - taskSchedulerBuilder
+2025-01-15 10:29:37.671 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - org.springframework.boot.autoconfigure.task.TaskSchedulingConfigurations$SimpleAsyncTaskSchedulerBuilderConfiguration
+2025-01-15 10:29:37.671 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - simpleAsyncTaskSchedulerBuilder
+2025-01-15 10:29:37.671 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - org.springframework.boot.autoconfigure.task.TaskSchedulingAutoConfiguration
+2025-01-15 10:29:37.672 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - spring.task.scheduling-org.springframework.boot.autoconfigure.task.TaskSchedulingProperties        
+2025-01-15 10:29:37.672 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - org.springframework.boot.actuate.autoconfigure.metrics.task.TaskExecutorMetricsAutoConfiguration   
+2025-01-15 10:29:37.672 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - eagerTaskExecutorMetrics
+2025-01-15 10:29:37.672 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - org.springframework.boot.actuate.autoconfigure.metrics.web.tomcat.TomcatMetricsAutoConfiguration   
+2025-01-15 10:29:37.672 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - tomcatMetricsBinder
+2025-01-15 10:29:37.672 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - org.springframework.boot.actuate.autoconfigure.observation.ObservationAutoConfiguration$ObservedAspectConfiguration
+2025-01-15 10:29:37.673 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - observedAspect
+2025-01-15 10:29:37.673 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - org.springframework.boot.actuate.autoconfigure.observation.ObservationAutoConfiguration$MeterObservationHandlerConfiguration$OnlyMetricsMeterObservationHandlerConfiguration
+2025-01-15 10:29:37.673 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - defaultMeterObservationHandler
+2025-01-15 10:29:37.673 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - org.springframework.boot.actuate.autoconfigure.observation.ObservationAutoConfiguration$MeterObservationHandlerConfiguration
+2025-01-15 10:29:37.674 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - org.springframework.boot.actuate.autoconfigure.observation.ObservationAutoConfiguration$OnlyMetricsConfiguration
+2025-01-15 10:29:37.674 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - metricsObservationHandlerGrouping
+2025-01-15 10:29:37.674 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - org.springframework.boot.actuate.autoconfigure.observation.ObservationAutoConfiguration
+2025-01-15 10:29:37.674 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - observationRegistryPostProcessor
+2025-01-15 10:29:37.674 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - observationRegistry
+2025-01-15 10:29:37.675 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - propertiesObservationFilter
+2025-01-15 10:29:37.675 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - management.observations-org.springframework.boot.actuate.autoconfigure.observation.ObservationProperties
+2025-01-15 10:29:37.675 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - org.springframework.boot.autoconfigure.http.HttpMessageConvertersAutoConfiguration$StringHttpMessageConverterConfiguration
+2025-01-15 10:29:37.676 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - stringHttpMessageConverter
+2025-01-15 10:29:37.676 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - org.springframework.boot.autoconfigure.http.JacksonHttpMessageConvertersConfiguration$MappingJackson2HttpMessageConverterConfiguration
+2025-01-15 10:29:37.677 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - mappingJackson2HttpMessageConverter
+2025-01-15 10:29:37.677 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - org.springframework.boot.autoconfigure.http.JacksonHttpMessageConvertersConfiguration
+2025-01-15 10:29:37.677 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - org.springframework.boot.autoconfigure.http.HttpMessageConvertersAutoConfiguration
+2025-01-15 10:29:37.677 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - messageConverters
+2025-01-15 10:29:37.678 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - org.springframework.boot.autoconfigure.web.client.RestClientAutoConfiguration
+2025-01-15 10:29:37.678 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - httpMessageConvertersRestClientCustomizer
+2025-01-15 10:29:37.678 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - restClientSsl
+2025-01-15 10:29:37.679 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - restClientBuilderConfigurer
+2025-01-15 10:29:37.679 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - restClientBuilder
+2025-01-15 10:29:37.680 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - org.springframework.boot.autoconfigure.web.client.RestTemplateAutoConfiguration
+2025-01-15 10:29:37.680 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - restTemplateBuilderConfigurer
+2025-01-15 10:29:37.680 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - restTemplateBuilder
+2025-01-15 10:29:37.681 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - org.springframework.boot.autoconfigure.reactor.netty.ReactorNettyConfigurations$ReactorResourceFactoryConfiguration
+2025-01-15 10:29:37.681 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - reactorResourceFactory
+2025-01-15 10:29:37.681 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - spring.reactor.netty-org.springframework.boot.autoconfigure.reactor.netty.ReactorNettyProperties   
+2025-01-15 10:29:37.681 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - org.springframework.boot.autoconfigure.web.reactive.function.client.ClientHttpConnectorFactoryConfiguration$ReactorNetty
+2025-01-15 10:29:37.682 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - reactorClientHttpConnectorFactory
+2025-01-15 10:29:37.682 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - org.springframework.boot.autoconfigure.web.reactive.function.client.ClientHttpConnectorAutoConfiguration
+2025-01-15 10:29:37.682 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - webClientHttpConnector
+2025-01-15 10:29:37.683 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - webClientHttpConnectorCustomizer
+2025-01-15 10:29:37.683 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - org.springframework.boot.autoconfigure.web.reactive.function.client.WebClientAutoConfiguration$WebClientCodecsConfiguration
+2025-01-15 10:29:37.683 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - exchangeStrategiesCustomizer
+2025-01-15 10:29:37.683 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - org.springframework.boot.autoconfigure.web.reactive.function.client.WebClientAutoConfiguration     
+2025-01-15 10:29:37.684 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - webClientBuilder
+2025-01-15 10:29:37.685 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - webClientSsl
+2025-01-15 10:29:37.686 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - org.springframework.boot.actuate.autoconfigure.observation.web.client.HttpClientObservationsAutoConfiguration$MeterFilterConfiguration
+2025-01-15 10:29:37.686 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - metricsHttpClientUriTagFilter
+2025-01-15 10:29:37.688 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - org.springframework.boot.actuate.autoconfigure.observation.web.client.RestTemplateObservationConfiguration
+2025-01-15 10:29:37.688 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - observationRestTemplateCustomizer
+2025-01-15 10:29:37.688 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - org.springframework.boot.actuate.autoconfigure.observation.web.client.WebClientObservationConfiguration
+2025-01-15 10:29:37.689 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - observationWebClientCustomizer
+2025-01-15 10:29:37.689 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - org.springframework.boot.actuate.autoconfigure.observation.web.client.RestClientObservationConfiguration
+2025-01-15 10:29:37.689 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - observationRestClientCustomizer
+2025-01-15 10:29:37.689 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - org.springframework.boot.actuate.autoconfigure.observation.web.client.HttpClientObservationsAutoConfiguration
+2025-01-15 10:29:37.689 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - org.springframework.boot.actuate.autoconfigure.observation.web.servlet.WebMvcObservationAutoConfiguration$MeterFilterConfiguration
+2025-01-15 10:29:37.690 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - metricsHttpServerUriTagFilter
+2025-01-15 10:29:37.690 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - org.springframework.boot.actuate.autoconfigure.observation.web.servlet.WebMvcObservationAutoConfiguration
+2025-01-15 10:29:37.690 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - webMvcObservationFilter
+2025-01-15 10:29:37.690 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - org.springframework.boot.actuate.autoconfigure.sbom.SbomEndpointAutoConfiguration
+2025-01-15 10:29:37.691 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - sbomEndpoint
+2025-01-15 10:29:37.691 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - management.endpoint.sbom-org.springframework.boot.actuate.sbom.SbomProperties
+2025-01-15 10:29:37.691 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - org.springframework.boot.actuate.autoconfigure.scheduling.ScheduledTasksEndpointAutoConfiguration  
+2025-01-15 10:29:37.691 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - scheduledTasksEndpoint
+2025-01-15 10:29:37.691 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - org.springframework.boot.actuate.autoconfigure.scheduling.ScheduledTasksObservabilityAutoConfiguration
+2025-01-15 10:29:37.692 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - observabilitySchedulingConfigurer
+2025-01-15 10:29:37.692 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - org.springframework.boot.actuate.autoconfigure.web.exchanges.HttpExchangesEndpointAutoConfiguration
+2025-01-15 10:29:37.692 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - org.springframework.boot.actuate.autoconfigure.web.mappings.MappingsEndpointAutoConfiguration$ServletWebConfiguration$SpringMvcConfiguration
+2025-01-15 10:29:37.692 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - dispatcherServletMappingDescriptionProvider
+2025-01-15 10:29:37.693 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - org.springframework.boot.actuate.autoconfigure.web.mappings.MappingsEndpointAutoConfiguration$ServletWebConfiguration
+2025-01-15 10:29:37.693 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - servletMappingDescriptionProvider
+2025-01-15 10:29:37.693 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - filterMappingDescriptionProvider
+2025-01-15 10:29:37.693 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - org.springframework.boot.actuate.autoconfigure.web.mappings.MappingsEndpointAutoConfiguration      
+2025-01-15 10:29:37.693 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - mappingsEndpoint
+2025-01-15 10:29:37.694 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - org.springframework.boot.autoconfigure.admin.SpringApplicationAdminJmxAutoConfiguration
+2025-01-15 10:29:37.694 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - springApplicationAdminRegistrar
+2025-01-15 10:29:37.694 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - org.springframework.boot.autoconfigure.aop.AopAutoConfiguration$AspectJAutoProxyingConfiguration$CglibAutoProxyConfiguration
+2025-01-15 10:29:37.694 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - org.springframework.aop.config.internalAutoProxyCreator
+2025-01-15 10:29:37.695 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - org.springframework.boot.autoconfigure.aop.AopAutoConfiguration$AspectJAutoProxyingConfiguration   
+2025-01-15 10:29:37.695 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - org.springframework.boot.autoconfigure.aop.AopAutoConfiguration
+2025-01-15 10:29:37.695 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - org.springframework.boot.autoconfigure.context.ConfigurationPropertiesAutoConfiguration
+2025-01-15 10:29:37.695 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - org.springframework.boot.autoconfigure.context.LifecycleAutoConfiguration
+2025-01-15 10:29:37.696 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - lifecycleProcessor
+2025-01-15 10:29:37.696 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - spring.lifecycle-org.springframework.boot.autoconfigure.context.LifecycleProperties
+2025-01-15 10:29:37.696 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - org.springframework.boot.autoconfigure.netty.NettyAutoConfiguration
+2025-01-15 10:29:37.696 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - spring.netty-org.springframework.boot.autoconfigure.netty.NettyProperties
+2025-01-15 10:29:37.697 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - org.springframework.boot.autoconfigure.reactor.ReactorAutoConfiguration
+2025-01-15 10:29:37.697 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - spring.reactor-org.springframework.boot.autoconfigure.reactor.ReactorProperties
+2025-01-15 10:29:37.697 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - org.springframework.boot.autoconfigure.sql.init.SqlInitializationAutoConfiguration
+2025-01-15 10:29:37.697 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - spring.sql.init-org.springframework.boot.autoconfigure.sql.init.SqlInitializationProperties        
+2025-01-15 10:29:37.698 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - org.springframework.boot.sql.init.dependency.DatabaseInitializationDependencyConfigurer$DependsOnDatabaseInitializationPostProcessor
+2025-01-15 10:29:37.698 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - org.springframework.boot.autoconfigure.web.embedded.EmbeddedWebServerFactoryCustomizerAutoConfiguration$NettyWebServerFactoryCustomizerConfiguration
+2025-01-15 10:29:37.698 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - nettyWebServerFactoryCustomizer
+2025-01-15 10:29:37.698 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - org.springframework.boot.autoconfigure.web.embedded.EmbeddedWebServerFactoryCustomizerAutoConfiguration$TomcatWebServerFactoryCustomizerConfiguration
+2025-01-15 10:29:37.698 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - tomcatWebServerFactoryCustomizer
+2025-01-15 10:29:37.698 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - org.springframework.boot.autoconfigure.web.embedded.EmbeddedWebServerFactoryCustomizerAutoConfiguration
+2025-01-15 10:29:37.699 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - org.springframework.boot.autoconfigure.web.servlet.HttpEncodingAutoConfiguration
+2025-01-15 10:29:37.699 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - characterEncodingFilter
+2025-01-15 10:29:37.699 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - localeCharsetMappingsCustomizer
+2025-01-15 10:29:37.699 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - org.springframework.boot.autoconfigure.web.servlet.MultipartAutoConfiguration
+2025-01-15 10:29:37.699 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - multipartConfigElement
+2025-01-15 10:29:37.700 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - multipartResolver
+2025-01-15 10:29:37.700 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - spring.servlet.multipart-org.springframework.boot.autoconfigure.web.servlet.MultipartProperties    
+2025-01-15 10:29:37.701 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration
+2025-01-15 10:29:37.702 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - configurationPropertiesBeans
+2025-01-15 10:29:37.702 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - configurationPropertiesRebinder
+2025-01-15 10:29:37.703 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - org.springframework.cloud.autoconfigure.RefreshEndpointAutoConfiguration$RefreshEndpointConfiguration
+2025-01-15 10:29:37.704 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - refreshEndpoint
+2025-01-15 10:29:37.704 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - org.springframework.cloud.autoconfigure.RestartEndpointWithoutIntegrationConfiguration
+2025-01-15 10:29:37.705 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - restartEndpointWithoutIntegration
+2025-01-15 10:29:37.705 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - org.springframework.cloud.autoconfigure.PauseResumeEndpointsConfiguration
+2025-01-15 10:29:37.705 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - pauseEndpoint
+2025-01-15 10:29:37.705 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - resumeEndpoint
+2025-01-15 10:29:37.705 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - org.springframework.cloud.autoconfigure.RefreshEndpointAutoConfiguration
+2025-01-15 10:29:37.705 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - refreshScopeHealthIndicator
+2025-01-15 10:29:37.705 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - org.springframework.cloud.circuitbreaker.resilience4j.Resilience4JAutoConfiguration$ObservationRegistryCustomizerResilience4jCustomizer
+2025-01-15 10:29:37.705 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - org.springframework.cloud.circuitbreaker.resilience4j.Resilience4JAutoConfiguration$MicrometerResilience4JGroupCustomizerConfiguration
+2025-01-15 10:29:37.706 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - resilience4JMeterFilter
+2025-01-15 10:29:37.706 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - org.springframework.cloud.circuitbreaker.resilience4j.Resilience4JAutoConfiguration
+2025-01-15 10:29:37.706 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - resilience4jCircuitBreakerFactory
+2025-01-15 10:29:37.706 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - spring.cloud.circuitbreaker.resilience4j-org.springframework.cloud.circuitbreaker.resilience4j.Resilience4JConfigurationProperties
+2025-01-15 10:29:37.706 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - org.springframework.cloud.client.discovery.composite.CompositeDiscoveryClientAutoConfiguration     
+2025-01-15 10:29:37.706 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - compositeDiscoveryClient
+2025-01-15 10:29:37.706 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - org.springframework.cloud.client.discovery.simple.SimpleDiscoveryClientAutoConfiguration
+2025-01-15 10:29:37.707 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - simpleDiscoveryProperties
+2025-01-15 10:29:37.707 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - simpleDiscoveryClient
+2025-01-15 10:29:37.707 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - org.springframework.cloud.client.CommonsClientAutoConfiguration$ActuatorConfiguration
+2025-01-15 10:29:37.707 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - featuresEndpoint
+2025-01-15 10:29:37.707 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - org.springframework.cloud.client.CommonsClientAutoConfiguration$DiscoveryLoadBalancerConfiguration 
+2025-01-15 10:29:37.707 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - discoveryClientHealthIndicator
+2025-01-15 10:29:37.708 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - discoveryCompositeHealthContributor
+2025-01-15 10:29:37.708 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - springCloudCommonsFeatures
+2025-01-15 10:29:37.708 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - spring.cloud.discovery.client.health-indicator-org.springframework.cloud.client.discovery.health.DiscoveryClientHealthIndicatorProperties
+2025-01-15 10:29:37.708 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - org.springframework.cloud.client.CommonsClientAutoConfiguration
+2025-01-15 10:29:37.708 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - org.springframework.cloud.client.discovery.composite.reactive.ReactiveCompositeDiscoveryClientAutoConfiguration
+2025-01-15 10:29:37.708 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - reactiveCompositeDiscoveryClient
+2025-01-15 10:29:37.708 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - org.springframework.cloud.client.discovery.simple.reactive.SimpleReactiveDiscoveryClientAutoConfiguration$HealthConfiguration
+2025-01-15 10:29:37.709 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - simpleReactiveDiscoveryClientHealthIndicator
+2025-01-15 10:29:37.709 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - org.springframework.cloud.client.discovery.simple.reactive.SimpleReactiveDiscoveryClientAutoConfiguration
+2025-01-15 10:29:37.709 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - simpleReactiveDiscoveryProperties
+2025-01-15 10:29:37.709 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - simpleReactiveDiscoveryClient
+2025-01-15 10:29:37.709 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - org.springframework.cloud.client.ReactiveCommonsClientAutoConfiguration$ReactiveDiscoveryLoadBalancerConfiguration
+2025-01-15 10:29:37.709 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - reactiveDiscoveryClients
+2025-01-15 10:29:37.709 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - reactiveCommonsFeatures
+2025-01-15 10:29:37.710 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - org.springframework.cloud.client.ReactiveCommonsClientAutoConfiguration
+2025-01-15 10:29:37.710 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - org.springframework.cloud.client.loadbalancer.LoadBalancerDefaultMappingsProviderAutoConfiguration 
+2025-01-15 10:29:37.710 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - loadBalancerClientsDefaultsMappingsProvider
+2025-01-15 10:29:37.710 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - org.springframework.cloud.client.serviceregistry.AutoServiceRegistrationConfiguration
+2025-01-15 10:29:37.710 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - spring.cloud.service-registry.auto-registration-org.springframework.cloud.client.serviceregistry.AutoServiceRegistrationProperties
+2025-01-15 10:29:37.710 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - org.springframework.cloud.client.serviceregistry.AutoServiceRegistrationAutoConfiguration
+2025-01-15 10:29:37.711 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - org.springframework.cloud.client.serviceregistry.ServiceRegistryAutoConfiguration
+2025-01-15 10:29:37.711 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - org.springframework.cloud.commons.config.CommonsConfigAutoConfiguration
+2025-01-15 10:29:37.711 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - defaultsBindHandlerAdvisor
+2025-01-15 10:29:37.711 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - org.springframework.cloud.commons.security.ResourceServerTokenRelayAutoConfiguration$ResourceServerTokenRelayRegistrationAutoConfiguration
+2025-01-15 10:29:37.712 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - org.springframework.cloud.commons.security.ResourceServerTokenRelayAutoConfiguration
+2025-01-15 10:29:37.712 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - org.springframework.cloud.commons.util.UtilAutoConfiguration
+2025-01-15 10:29:37.712 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - inetUtilsProperties
+2025-01-15 10:29:37.713 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - inetUtils 
+2025-01-15 10:29:37.713 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - org.springframework.cloud.openfeign.FeignAutoConfiguration$DefaultFeignTargeterConfiguration       
+2025-01-15 10:29:37.713 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - feignTargeter
+2025-01-15 10:29:37.713 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - org.springframework.cloud.openfeign.FeignAutoConfiguration
+2025-01-15 10:29:37.713 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - feignFeature
+2025-01-15 10:29:37.713 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - feignContext
+2025-01-15 10:29:37.713 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - feignChildContextInitializer
+2025-01-15 10:29:37.713 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - feignClientBeanFactoryInitializationCodeGenerator
+2025-01-15 10:29:37.713 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - spring.cloud.openfeign.httpclient-org.springframework.cloud.openfeign.support.FeignHttpClientProperties
+2025-01-15 10:29:37.715 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - spring.cloud.openfeign.client-org.springframework.cloud.openfeign.FeignClientProperties
+2025-01-15 10:29:37.715 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - spring.cloud.openfeign.encoder-org.springframework.cloud.openfeign.support.FeignEncoderProperties  
+2025-01-15 10:29:37.715 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - org.springframework.boot.actuate.autoconfigure.endpoint.web.ServletEndpointManagementContextConfiguration$WebMvcServletEndpointManagementContextConfiguration
+2025-01-15 10:29:37.715 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - servletEndpointRegistrar
+2025-01-15 10:29:37.715 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - org.springframework.boot.actuate.autoconfigure.endpoint.web.ServletEndpointManagementContextConfiguration
+2025-01-15 10:29:37.716 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - servletExposeExcludePropertyEndpointFilter
+2025-01-15 10:29:37.716 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - org.springframework.boot.actuate.autoconfigure.endpoint.web.servlet.WebMvcEndpointManagementContextConfiguration
+2025-01-15 10:29:37.716 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - webEndpointServletHandlerMapping
+2025-01-15 10:29:37.716 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - controllerEndpointHandlerMapping
+2025-01-15 10:29:37.716 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - endpointObjectMapperWebMvcConfigurer
+2025-01-15 10:29:37.717 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - management.endpoints.web.cors-org.springframework.boot.actuate.autoconfigure.endpoint.web.CorsEndpointProperties
+2025-01-15 10:29:37.717 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - org.springframework.boot.actuate.autoconfigure.web.server.ManagementContextAutoConfiguration$SameManagementContextConfiguration$EnableSameManagementContextConfiguration
+2025-01-15 10:29:37.717 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - org.springframework.boot.actuate.autoconfigure.web.server.ManagementContextAutoConfiguration$SameManagementContextConfiguration
+2025-01-15 10:29:37.717 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - org.springframework.boot.actuate.autoconfigure.web.server.ManagementContextAutoConfiguration       
+2025-01-15 10:29:37.718 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - management.server-org.springframework.boot.actuate.autoconfigure.web.server.ManagementServerProperties
+2025-01-15 10:29:37.718 [main] DEBUG g.i.j.JetcsServiceHandlerApplication [] - *************************************************** END ***************************************************
+2025-01-15 10:29:54.910 [http-nio-8080-exec-4] INFO  o.s.api.AbstractOpenApiResource [] - Init duration for springdoc-openapi is: 918 ms
+2025-01-15 10:30:41.958 [http-nio-8080-exec-6] INFO  g.i.j.c.VarianceAnalysisController [] - In JSON Version
+2025-01-15 10:30:41.959 [http-nio-8080-exec-6] DEBUG g.i.j.c.VarianceAnalysisController [] - Received Variance Analysis Request in Multipart Format
+2025-01-15 10:30:41.961 [http-nio-8080-exec-6] INFO  g.i.j.c.c.t.s.VarianceAnalysisService [0a3bc24bba2d] - Active Profile: local
+2025-01-15 10:30:41.962 [http-nio-8080-exec-6] INFO  g.i.j.c.c.t.s.AuthLocatorService [0a3bc24bba2d] - trConfig: TrConfig(tokenUrl=https://api-uat.thomsonreuters.com/gosystem/oauth2/v1/token, locatorUrl=https://api-uat.thomsonreuters.com/gosystem/tax-returns/v1/createnewlocator, openSessionUrl=https://api-uat.thomsonreuters.com/gosystem/tax-returns/v1/open, closeLocatorUrl=https://api-uat.thomsonreuters.com/gosystem/tax-returns/v1/close, saveFieldsUrl=https://api-uat.thomsonreuters.com/gosystem/tax-returns/v1/save-fields, retrieveFieldsUrl=https://api-uat.thomsonreuters.com/gosystem/tax-returns/v1/retrieve-fields, clientId=Ke5TNTxjtZPnF9MBgdRZ3CGVfzfCcUL4, clientSecret=ovMcGVXHWGDvGqMK, scopes="urn:tr:gosystem:auth:api:taxreturn", grantType=client_credentials, account=QA1Y, taxtype=1040, returntype=1040, snapshotOpenUrl=https://api-uat.thomsonreuters.com/gosystem/tax-returns/v1/open-snapshot, snapshotDownloadUrl=https://api-uat.thomsonreuters.com/gosystem/tax-returns/v1/snapshot)
+2025-01-15 10:39:09.388 [http-nio-8080-exec-6] ERROR g.i.j.c.VarianceAnalysisController [0a3bc24bba2d] - Exception occurred during Variance Analysis
+reactor.core.Exceptions$RetryExhaustedException: Retries exhausted: 3/3
+        at reactor.core.Exceptions.retryExhausted(Exceptions.java:308)
+        at reactor.util.retry.RetryBackoffSpec.lambda$static$0(RetryBackoffSpec.java:68) 
+        at reactor.util.retry.RetryBackoffSpec.lambda$null$4(RetryBackoffSpec.java:560)  
+        at reactor.core.publisher.FluxConcatMapNoPrefetch$FluxConcatMapNoPrefetchSubscriber.onNext(FluxConcatMapNoPrefetch.java:183)
+        at reactor.core.publisher.FluxContextWrite$ContextWriteSubscriber.onNext(FluxContextWrite.java:107)
+        at reactor.core.publisher.SinkManyEmitterProcessor.drain(SinkManyEmitterProcessor.java:476)
+        at reactor.core.publisher.SinkManyEmitterProcessor.tryEmitNext(SinkManyEmitterProcessor.java:273)
+        at reactor.core.publisher.SinkManySerialized.tryEmitNext(SinkManySerialized.java:100)
+        at reactor.core.publisher.InternalManySink.emitNext(InternalManySink.java:27)    
+        at reactor.core.publisher.FluxRetryWhen$RetryWhenMainSubscriber.onError(FluxRetryWhen.java:194)
+        at reactor.core.publisher.MonoFlatMap$FlatMapMain.onError(MonoFlatMap.java:180)  
+        at reactor.core.publisher.FluxContextWrite$ContextWriteSubscriber.onError(FluxContextWrite.java:121)
+        at reactor.core.publisher.FluxDoFinally$DoFinallySubscriber.onError(FluxDoFinally.java:119)
+        at reactor.core.publisher.MonoPeekTerminal$MonoTerminalPeekSubscriber.onError(MonoPeekTerminal.java:258)
+        at reactor.core.publisher.FluxPeekFuseable$PeekConditionalSubscriber.onError(FluxPeekFuseable.java:903)
+        at reactor.core.publisher.Operators$MultiSubscriptionSubscriber.onError(Operators.java:2236)
+        at reactor.core.publisher.FluxOnAssembly$OnAssemblySubscriber.onError(FluxOnAssembly.java:544)
+        at reactor.core.publisher.FluxPeek$PeekSubscriber.onError(FluxPeek.java:222)     
+        at reactor.core.publisher.FluxMap$MapSubscriber.onError(FluxMap.java:134)        
+        at reactor.core.publisher.FluxOnErrorResume$ResumeSubscriber.onError(FluxOnErrorResume.java:106)
+        at reactor.core.publisher.Operators.error(Operators.java:198)
+        at reactor.core.publisher.MonoErrorSupplied.subscribe(MonoErrorSupplied.java:56) 
+        at reactor.core.publisher.Mono.subscribe(Mono.java:4576)
+        at reactor.core.publisher.FluxOnErrorResume$ResumeSubscriber.onError(FluxOnErrorResume.java:103)
+        at reactor.core.publisher.FluxPeek$PeekSubscriber.onError(FluxPeek.java:222)     
+        at reactor.core.publisher.FluxPeek$PeekSubscriber.onError(FluxPeek.java:222)     
+        at reactor.core.publisher.FluxPeek$PeekSubscriber.onError(FluxPeek.java:222)     
+        at reactor.core.publisher.MonoNext$NextSubscriber.onError(MonoNext.java:93)      
+        at reactor.core.publisher.MonoFlatMapMany$FlatMapManyMain.onError(MonoFlatMapMany.java:205)
+        at reactor.core.publisher.SerializedSubscriber.onError(SerializedSubscriber.java:124)
+        at reactor.core.publisher.FluxRetryWhen$RetryWhenMainSubscriber.whenError(FluxRetryWhen.java:229)
+        at reactor.core.publisher.FluxRetryWhen$RetryWhenOtherSubscriber.onError(FluxRetryWhen.java:279)
+        at reactor.core.publisher.FluxContextWrite$ContextWriteSubscriber.onError(FluxContextWrite.java:121)
+        at reactor.core.publisher.FluxConcatMapNoPrefetch$FluxConcatMapNoPrefetchSubscriber.maybeOnError(FluxConcatMapNoPrefetch.java:327)
+        at reactor.core.publisher.FluxConcatMapNoPrefetch$FluxConcatMapNoPrefetchSubscriber.onNext(FluxConcatMapNoPrefetch.java:212)
+        at reactor.core.publisher.FluxContextWrite$ContextWriteSubscriber.onNext(FluxContextWrite.java:107)
+        at reactor.core.publisher.SinkManyEmitterProcessor.drain(SinkManyEmitterProcessor.java:476)
+        at reactor.core.publisher.SinkManyEmitterProcessor$EmitterInner.drainParent(SinkManyEmitterProcessor.java:620)
+        at reactor.core.publisher.FluxPublish$PubSubInner.request(FluxPublish.java:874)  
+        at reactor.core.publisher.FluxContextWrite$ContextWriteSubscriber.request(FluxContextWrite.java:136)
+        at reactor.core.publisher.FluxConcatMapNoPrefetch$FluxConcatMapNoPrefetchSubscriber.request(FluxConcatMapNoPrefetch.java:337)
+        at reactor.core.publisher.FluxContextWrite$ContextWriteSubscriber.request(FluxContextWrite.java:136)
+        at reactor.core.publisher.Operators$DeferredSubscription.request(Operators.java:1743)
+        at reactor.core.publisher.FluxRetryWhen$RetryWhenMainSubscriber.onError(FluxRetryWhen.java:196)
+        at reactor.core.publisher.MonoCreate$DefaultMonoSink.error(MonoCreate.java:205)  
+        at reactor.netty.http.client.HttpClientConnect$MonoHttpConnect$ClientTransportSubscriber.onError(HttpClientConnect.java:311)
+        at reactor.core.publisher.MonoCreate$DefaultMonoSink.error(MonoCreate.java:205)  
+        at reactor.netty.resources.DefaultPooledConnectionProvider$DisposableAcquire.onError(DefaultPooledConnectionProvider.java:172)
+        at reactor.netty.internal.shaded.reactor.pool.AbstractPool$Borrower.fail(AbstractPool.java:480)
+        at reactor.netty.internal.shaded.reactor.pool.SimpleDequePool.lambda$drainLoop$9(SimpleDequePool.java:436)
+        at reactor.core.publisher.FluxDoOnEach$DoOnEachSubscriber.onError(FluxDoOnEach.java:186)
+        at reactor.core.publisher.MonoCreate$DefaultMonoSink.error(MonoCreate.java:205)  
+        at reactor.netty.resources.DefaultPooledConnectionProvider$PooledConnectionAllocator$PooledConnectionInitializer.onError(DefaultPooledConnectionProvider.java:583)        
+        at reactor.core.publisher.MonoFlatMap$FlatMapMain.secondError(MonoFlatMap.java:241)
+        at reactor.core.publisher.MonoFlatMap$FlatMapInner.onError(MonoFlatMap.java:315) 
+        at reactor.core.publisher.FluxOnErrorResume$ResumeSubscriber.onError(FluxOnErrorResume.java:106)
+        at reactor.core.publisher.SerializedSubscriber.onError(SerializedSubscriber.java:124)
+        at reactor.core.publisher.FluxRetryWhen$RetryWhenMainSubscriber.whenError(FluxRetryWhen.java:229)
+        at reactor.core.publisher.FluxRetryWhen$RetryWhenOtherSubscriber.onError(FluxRetryWhen.java:279)
+        at reactor.core.publisher.FluxContextWrite$ContextWriteSubscriber.onError(FluxContextWrite.java:121)
+        at reactor.core.publisher.FluxConcatMapNoPrefetch$FluxConcatMapNoPrefetchSubscriber.maybeOnError(FluxConcatMapNoPrefetch.java:327)
+        at reactor.core.publisher.FluxConcatMapNoPrefetch$FluxConcatMapNoPrefetchSubscriber.onNext(FluxConcatMapNoPrefetch.java:212)
+        at reactor.core.publisher.FluxContextWrite$ContextWriteSubscriber.onNext(FluxContextWrite.java:107)
+        at reactor.core.publisher.SinkManyEmitterProcessor.drain(SinkManyEmitterProcessor.java:476)
+        at reactor.core.publisher.SinkManyEmitterProcessor.tryEmitNext(SinkManyEmitterProcessor.java:273)
+        at reactor.core.publisher.SinkManySerialized.tryEmitNext(SinkManySerialized.java:100)
+        at reactor.core.publisher.InternalManySink.emitNext(InternalManySink.java:27)    
+        at reactor.core.publisher.FluxRetryWhen$RetryWhenMainSubscriber.onError(FluxRetryWhen.java:194)
+        at reactor.core.publisher.MonoFlatMap$FlatMapMain.secondError(MonoFlatMap.java:241)
+        at reactor.core.publisher.MonoFlatMap$FlatMapInner.onError(MonoFlatMap.java:315) 
+        at reactor.netty.transport.TransportConnector$MonoChannelPromise.tryFailure(TransportConnector.java:576)
+        at reactor.netty.transport.TransportConnector$MonoChannelPromise.setFailure(TransportConnector.java:522)
+        at reactor.netty.transport.TransportConnector.lambda$doConnect$7(TransportConnector.java:261)
+        at io.netty.util.concurrent.DefaultPromise.notifyListener0(DefaultPromise.java:590)
+        at io.netty.util.concurrent.DefaultPromise.notifyListeners0(DefaultPromise.java:583)
+        at io.netty.util.concurrent.DefaultPromise.notifyListenersNow(DefaultPromise.java:559)
+        at io.netty.util.concurrent.DefaultPromise.notifyListeners(DefaultPromise.java:492)
+        at io.netty.util.concurrent.DefaultPromise.setValue0(DefaultPromise.java:636)    
+        at io.netty.util.concurrent.DefaultPromise.setFailure0(DefaultPromise.java:629)  
+        at io.netty.util.concurrent.DefaultPromise.tryFailure(DefaultPromise.java:118)   
+        at io.netty.channel.nio.AbstractNioChannel$AbstractNioUnsafe.fulfillConnectPromise(AbstractNioChannel.java:326)
+        at io.netty.channel.nio.AbstractNioChannel$AbstractNioUnsafe.finishConnect(AbstractNioChannel.java:342)
+        at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:776)   
+        at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724)
+        at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650)  
+        at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562)
+        at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+        at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)     
+        at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+        at java.base/java.lang.Thread.run(Thread.java:840)
+        Suppressed: java.lang.Exception: #block terminated with an error
+                at reactor.core.publisher.BlockingSingleSubscriber.blockingGet(BlockingSingleSubscriber.java:104)
+                at reactor.core.publisher.Mono.block(Mono.java:1779)
+                at gov.irs.jios.common.client.tr.service.AuthLocatorService.getToken(AuthLocatorService.java:66)
+                at gov.irs.jios.common.client.tr.service.VarianceAnalysisService.performVarianceAnalysisOrTaxCalc(VarianceAnalysisService.java:70)
+                at gov.irs.jios.controller.VarianceAnalysisController.varianceAnalysisMultipart(VarianceAnalysisController.java:110)
+                at gov.irs.jios.controller.VarianceAnalysisController.varianceAnalysis(VarianceAnalysisController.java:57)
+                at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+                at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+                at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+                at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+                at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:255)
+                at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:188)
+                at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:118)
+                at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:926)
+                at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:831)
+                at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+                at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1089)
+                at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:979)
+                at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014)
+                at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:914)
+                at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:590)        
+                at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885)
+                at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658)        
+                at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:195)
+                at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+                at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+                at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+                at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+                at gov.irs.jios.filter.PayloadSizeLimitFilter.doFilter(PayloadSizeLimitFilter.java:31)
+                at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+                at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+                at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+                at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+                at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+                at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+                at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+                at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+                at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+                at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+                at org.springframework.web.filter.ServerHttpObservationFilter.doFilterInternal(ServerHttpObservationFilter.java:113)
+                at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+                at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+                at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+                at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+                at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+                at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+                at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+                at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167)
+                at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+                at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:483)
+                at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+                at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+                at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+                at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344)
+                at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:397)
+                at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+                at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:905)
+                at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741)
+                at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+                at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190)
+                at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+                at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+                ... 1 common frames omitted
+Caused by: org.springframework.web.reactive.function.client.WebClientRequestException: Connection timed out: getsockopt: api-uat.thomsonreuters.com/3.163.80.74:443
+        at org.springframework.web.reactive.function.client.ExchangeFunctions$DefaultExchangeFunction.lambda$wrapException$9(ExchangeFunctions.java:136)
+        Suppressed: reactor.core.publisher.FluxOnAssembly$OnAssemblyException:
+Error has been observed at the following site(s):
+        *__checkpoint ? Request to POST https://api-uat.thomsonreuters.com/gosystem/oauth2/v1/token [DefaultWebClient]
+Original Stack Trace:
+                at org.springframework.web.reactive.function.client.ExchangeFunctions$DefaultExchangeFunction.lambda$wrapException$9(ExchangeFunctions.java:136)
+                at reactor.core.publisher.MonoErrorSupplied.subscribe(MonoErrorSupplied.java:55)
+                at reactor.core.publisher.Mono.subscribe(Mono.java:4576)
+                at reactor.core.publisher.FluxOnErrorResume$ResumeSubscriber.onError(FluxOnErrorResume.java:103)
+                at reactor.core.publisher.FluxPeek$PeekSubscriber.onError(FluxPeek.java:222)
+                at reactor.core.publisher.FluxPeek$PeekSubscriber.onError(FluxPeek.java:222)
+                at reactor.core.publisher.FluxPeek$PeekSubscriber.onError(FluxPeek.java:222)
+                at reactor.core.publisher.MonoNext$NextSubscriber.onError(MonoNext.java:93)
+                at reactor.core.publisher.MonoFlatMapMany$FlatMapManyMain.onError(MonoFlatMapMany.java:205)
+                at reactor.core.publisher.SerializedSubscriber.onError(SerializedSubscriber.java:124)
+                at reactor.core.publisher.FluxRetryWhen$RetryWhenMainSubscriber.whenError(FluxRetryWhen.java:229)
+                at reactor.core.publisher.FluxRetryWhen$RetryWhenOtherSubscriber.onError(FluxRetryWhen.java:279)
+                at reactor.core.publisher.FluxContextWrite$ContextWriteSubscriber.onError(FluxContextWrite.java:121)
+                at reactor.core.publisher.FluxConcatMapNoPrefetch$FluxConcatMapNoPrefetchSubscriber.maybeOnError(FluxConcatMapNoPrefetch.java:327)
+                at reactor.core.publisher.FluxConcatMapNoPrefetch$FluxConcatMapNoPrefetchSubscriber.onNext(FluxConcatMapNoPrefetch.java:212)
+                at reactor.core.publisher.FluxContextWrite$ContextWriteSubscriber.onNext(FluxContextWrite.java:107)
+                at reactor.core.publisher.SinkManyEmitterProcessor.drain(SinkManyEmitterProcessor.java:476)
+                at reactor.core.publisher.SinkManyEmitterProcessor$EmitterInner.drainParent(SinkManyEmitterProcessor.java:620)
+                at reactor.core.publisher.FluxPublish$PubSubInner.request(FluxPublish.java:874)
+                at reactor.core.publisher.FluxContextWrite$ContextWriteSubscriber.request(FluxContextWrite.java:136)
+                at reactor.core.publisher.FluxConcatMapNoPrefetch$FluxConcatMapNoPrefetchSubscriber.request(FluxConcatMapNoPrefetch.java:337)
+                at reactor.core.publisher.FluxContextWrite$ContextWriteSubscriber.request(FluxContextWrite.java:136)
+                at reactor.core.publisher.Operators$DeferredSubscription.request(Operators.java:1743)
+                at reactor.core.publisher.FluxRetryWhen$RetryWhenMainSubscriber.onError(FluxRetryWhen.java:196)
+                at reactor.core.publisher.MonoCreate$DefaultMonoSink.error(MonoCreate.java:205)
+                at reactor.netty.http.client.HttpClientConnect$MonoHttpConnect$ClientTransportSubscriber.onError(HttpClientConnect.java:311)
+                at reactor.core.publisher.MonoCreate$DefaultMonoSink.error(MonoCreate.java:205)
+                at reactor.netty.resources.DefaultPooledConnectionProvider$DisposableAcquire.onError(DefaultPooledConnectionProvider.java:172)
+                at reactor.netty.internal.shaded.reactor.pool.AbstractPool$Borrower.fail(AbstractPool.java:480)
+                at reactor.netty.internal.shaded.reactor.pool.SimpleDequePool.lambda$drainLoop$9(SimpleDequePool.java:436)
+                at reactor.core.publisher.FluxDoOnEach$DoOnEachSubscriber.onError(FluxDoOnEach.java:186)
+                at reactor.core.publisher.MonoCreate$DefaultMonoSink.error(MonoCreate.java:205)
+                at reactor.netty.resources.DefaultPooledConnectionProvider$PooledConnectionAllocator$PooledConnectionInitializer.onError(DefaultPooledConnectionProvider.java:583)
+                at reactor.core.publisher.MonoFlatMap$FlatMapMain.secondError(MonoFlatMap.java:241)
+                at reactor.core.publisher.MonoFlatMap$FlatMapInner.onError(MonoFlatMap.java:315)
+                at reactor.core.publisher.FluxOnErrorResume$ResumeSubscriber.onError(FluxOnErrorResume.java:106)
+                at reactor.core.publisher.SerializedSubscriber.onError(SerializedSubscriber.java:124)
+                at reactor.core.publisher.FluxRetryWhen$RetryWhenMainSubscriber.whenError(FluxRetryWhen.java:229)
+                at reactor.core.publisher.FluxRetryWhen$RetryWhenOtherSubscriber.onError(FluxRetryWhen.java:279)
+                at reactor.core.publisher.FluxContextWrite$ContextWriteSubscriber.onError(FluxContextWrite.java:121)
+                at reactor.core.publisher.FluxConcatMapNoPrefetch$FluxConcatMapNoPrefetchSubscriber.maybeOnError(FluxConcatMapNoPrefetch.java:327)
+                at reactor.core.publisher.FluxConcatMapNoPrefetch$FluxConcatMapNoPrefetchSubscriber.onNext(FluxConcatMapNoPrefetch.java:212)
+                at reactor.core.publisher.FluxContextWrite$ContextWriteSubscriber.onNext(FluxContextWrite.java:107)
+                at reactor.core.publisher.SinkManyEmitterProcessor.drain(SinkManyEmitterProcessor.java:476)
+                at reactor.core.publisher.SinkManyEmitterProcessor.tryEmitNext(SinkManyEmitterProcessor.java:273)
+                at reactor.core.publisher.SinkManySerialized.tryEmitNext(SinkManySerialized.java:100)
+                at reactor.core.publisher.InternalManySink.emitNext(InternalManySink.java:27)
+                at reactor.core.publisher.FluxRetryWhen$RetryWhenMainSubscriber.onError(FluxRetryWhen.java:194)
+                at reactor.core.publisher.MonoFlatMap$FlatMapMain.secondError(MonoFlatMap.java:241)
+                at reactor.core.publisher.MonoFlatMap$FlatMapInner.onError(MonoFlatMap.java:315)
+                at reactor.netty.transport.TransportConnector$MonoChannelPromise.tryFailure(TransportConnector.java:576)
+                at reactor.netty.transport.TransportConnector$MonoChannelPromise.setFailure(TransportConnector.java:522)
+                at reactor.netty.transport.TransportConnector.lambda$doConnect$7(TransportConnector.java:261)
+                at io.netty.util.concurrent.DefaultPromise.notifyListener0(DefaultPromise.java:590)
+                at io.netty.util.concurrent.DefaultPromise.notifyListeners0(DefaultPromise.java:583)
+                at io.netty.util.concurrent.DefaultPromise.notifyListenersNow(DefaultPromise.java:559)
+                at io.netty.util.concurrent.DefaultPromise.notifyListeners(DefaultPromise.java:492)
+                at io.netty.util.concurrent.DefaultPromise.setValue0(DefaultPromise.java:636)
+                at io.netty.util.concurrent.DefaultPromise.setFailure0(DefaultPromise.java:629)
+                at io.netty.util.concurrent.DefaultPromise.tryFailure(DefaultPromise.java:118)
+                at io.netty.channel.nio.AbstractNioChannel$AbstractNioUnsafe.fulfillConnectPromise(AbstractNioChannel.java:326)
+                at io.netty.channel.nio.AbstractNioChannel$AbstractNioUnsafe.finishConnect(AbstractNioChannel.java:342)
+                at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:776)
+                at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724)
+                at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650)
+                at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562)
+                at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+                at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+                at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+                at java.base/java.lang.Thread.run(Thread.java:840)
+Caused by: io.netty.channel.AbstractChannel$AnnotatedConnectException: Connection timed out: getsockopt: api-uat.thomsonreuters.com/3.163.80.74:443
+Caused by: java.net.ConnectException: Connection timed out: getsockopt
+        at java.base/sun.nio.ch.Net.pollConnect(Native Method)
+        at java.base/sun.nio.ch.Net.pollConnectNow(Net.java:672)
+        at java.base/sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:946)
+        at io.netty.channel.socket.nio.NioSocketChannel.doFinishConnect(NioSocketChannel.java:336)
+        at io.netty.channel.nio.AbstractNioChannel$AbstractNioUnsafe.finishConnect(AbstractNioChannel.java:339)
+        at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:776)   
+        at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724)
+        at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650)  
+        at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562)
+        at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+        at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)     
+        at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+        at java.base/java.lang.Thread.run(Thread.java:840)
+2025-01-15 10:39:09.427 [http-nio-8080-exec-6] WARN  o.s.w.s.m.s.DefaultHandlerExceptionResolver [] - Resolved [org.springframework.web.context.request.async.AsyncRequestNotUsableException: ServletOutputStream failed to flush: java.io.IOException: Connection reset by peer]
